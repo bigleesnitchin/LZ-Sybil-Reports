@@ -93,6 +93,93 @@ Here we can see that the addresses made their first LZ transaction approximately
 
 Here we can see from the layer zero scan the different addresses, the activity dates are similar, it also uses the same protocols each time. </details>
 
+# CLUSTER 1
+
+The first 17 addresses within the cluster are linked to the same Binance deposit address: 0x8968b4830D9bFDbd042474dEfFc0bBda731Db69B. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+```
+0x77c3db040f79ae46a91529a667c03ab484b37116
+0x9d2e4bdc1e980e576a3a194f6f5eeda0ebd6dca1
+0x61b482571b3ab0f74ccc8eee40fe4658b3ff50d3
+0xebca8b5c9a3bdfb9ddf6be4ca807ad20fd5274e1
+0x883a87de271a0f410351b62cda13e7e968011aaf
+0x45233ff6bbc10f0eb41f430561ac97d78ddfb4cd
+0x1626255e55b3c8fa14c933646534e9f8726c649a
+0xfe8aa105f37c1ea271eab2fb698f752120bbfe08
+0x54cf5fbd9a1ba2cbd23b321886d4848e3a0d47cf
+0x512a3c8fb55c520f00dbe82133fa09de1c8d7bf9
+0xd490d7ac76d1fe8ec0572c7f69ca4e99514c6164
+0xd6f87ac3c02a65c4532c5231f66d78c3093d9622
+0x302d8d638e10df112e705b3d9cfe33118e0e113d
+0xdb0f1df85d3f3989c7543a8f74eb7d41132fe74a
+0xf86aced730d6fa0340cd811f7b88adc13b22f5c2
+0x18494636ed501765d3f9ad5795970717484b350c
+0x2a2b5f1e522d18537e67a4b47aa31acdbd6be113
+0x31c32051fca40b133cf9970cfaf141c11ec32512
+0xe658fa69360a8351569fa79682f34f91d7a5c008
+0x03fc17caaa63600351aaa4b736e8e2a901882931
+0x790ea37af97f3b21bcfdc8d9ea8a1ed3ec05b6ef
+0x331040149c9a5d5962659120ae57e8813426e683
+0x5caeec615d50af25e2f626cea476bb0c2002a60b
+0x584abc5b9434ec986529f77dba9ab7f58b415c8c
+0xe74bc1aa5cb89c3fd6f66763fe433953bed19746
+0x5d80de5c12858233d2e9a955c6604b6ce327dc32
+0x8bade806405e01739b3c775061561290118b0af1
+0x2ade36b300a279c89003a1dcf6378dd1d585bfb3
+```
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/ee6bc9ff-1852-415e-83d0-8a988cf8bff0)
+
+
+I spotted this one on Dune, it was pretty easy given that he created and made his first transactions on several addresses on the same day 
+
+And he repeated this several times, so I have several batches with different addresses in them.
+
+<details>
+  
+![sybil1](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/772030b2-2c8c-4957-a728-cdc5adc07534)
+
+As here we can see, its addresses were created on the same day, their first LZ tx was made on the same day, and this over several batches
+
+ 
+<details>
+I then went to check its addresses on LayerZero scan and we can see several patterns there
+
+The best ranked addresses use the same applications: 
+Stargate, Orderly, Superform and Holograph on approximately the same dates:
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/5145e3d1-4186-4d0c-96c5-60d0ac740729)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/eb075290-d2af-4a48-85b2-c94a158e413e)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/5ce4a15a-cdb9-45b5-a1e9-0c815a0e9b0c)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/aba5bad4-d717-450b-a867-7d9efc012f09)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a35f2167-182c-4523-b11f-24f64a7f9da7)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/4f041720-016e-4730-997f-4f03df7d5a4f)
+
+The smallest addresses also share the same patterns: We can start with the same number of messages, as well as the same applications used on almost the same dates
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/34355604-19ca-4b3b-980b-8dc06bcc51ad)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/1aba5575-71fb-4743-b25c-3832d115c277)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/73c8ee18-50bf-479d-95f1-c9d9c6975bc2)
+
+</details>
+
+I think I have covered this sybil, I would like to clarify once again that all these addresses share the same unique Binance deposit address
+
+From what I've seen, he uses several farming techniques, some with large wallets and others with smaller ones as reported.
+
+
+
+
+
+
+
+
 
 
 
