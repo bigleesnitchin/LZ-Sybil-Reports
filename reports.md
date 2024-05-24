@@ -93,7 +93,7 @@ Here we can see that the addresses made their first LZ transaction approximately
 
 Here we can see from the layer zero scan the different addresses, the activity dates are similar, it also uses the same protocols each time. </details>
 
-# CLUSTER 1
+# CLUSTER 2
 
 The first 17 addresses within the cluster are linked to the same Binance deposit address: 0x8968b4830D9bFDbd042474dEfFc0bBda731Db69B. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
 ```
@@ -300,7 +300,6 @@ Let's start on Dune, it has several addy having their first tx on Layer Zero on 
 
 
 Then come to the most interesting part, we can see that he carried out the same transactions, at the same times and with several different addresses (especially the best ranked ones)
-</details>
 
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/451763fa-dbcb-4263-af0d-e823c0cb61b0)
 
@@ -351,6 +350,13 @@ https://layerzeroscan.com/tx/0xd8e4ef21efef1a32670133a146ba79271123d8d9147527380
 https://layerzeroscan.com/tx/0x1d101c450f1c92d9609c78be3ad058b4e415c3fa0f6d6a9d0d6abf8cde8c9362
 
 </details>
+
+This cluster was harder to dissect but as indicated, I managed to connect several addresses which carried out the same transactions
+As written earlier, this one has a lot of addresses, some are very well ranked with a large number of transactions
+
+What betrays this cluster are the addresses that it created at the same time later to farm
+
+Unfortunately, he uses the same applications at the same times for his well-ranked addresses as for batch of addresses created later.
 
 
 
