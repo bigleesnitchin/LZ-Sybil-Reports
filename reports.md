@@ -172,11 +172,92 @@ I think I have covered this sybil, I would like to clarify once again that all t
 
 From what I've seen, he uses several farming techniques, some with large wallets and others with smaller ones as reported.
 
+# CLUSTER 3
+
+The first 16 addresses within the cluster are linked to the same Binance deposit address: 0xAf25335F0290C8804a2357bc3Fd3879228FEd3f5. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+
+```
+0x14b35ea598a18e171a8f1e724c356f83fb4a0f18
+0xd324c3e1da374f29077ca33d2e669456f897d80e
+0x00a104b51215180cd87071962567cdff6961e0b7
+0x7b6ac5df584f466fa8670b1107638dc7e940796f
+0x4040ae6e1d67cc47060871ed9dd7c3eee7ad5284
+0x98db5698bd3bbc83812d2a8e03e1411b847310ac
+0x541bc299778baa8157a5bb093099791ff05b0cc4
+0xb4d77e9a11425f8bb6924b374385282bf35a97d5
+0xc8a60f7fc1ca1e2c1c13ee85ee1130024f69b07f
+0xfcc49e880b3a024d2a31742178d86ca5cfe0169d
+0x682463b16fcb871a17d4fb70a504fca7e4414b83
+0x76cd684cb4b6148f667e6ee7896e2f6fcb3caa7e
+0x106829fc39b9e826f694686b0211d54c710e3dea
+0x129164e281f2e41a2bbdca56205c41649650a892
+0xeb14da0a6f4260404fea6a596d3ae68599890f20
+0x105d326450701879833e3cd33f161493f082902d
+0x558fbb1b9dde11c85da59dee9b399bf37016a999
+0xe5174798675530e1ccac4d121aa56d67c8b0bd3c
+0x73f13a414d820b5e9118713c7466985890d2bbe8
+0xc729d5a6eb0caaf27f4a68f31545ee88c252a0a1
+0xb1a9c3c1841e55be6486d7844c2f8c791ea0d6d9
+0xe719d984b5873ee40d4e81071b4cef7dceca48cc
+0x692a15eab43e79f511abd4c26713c32301ec0252
+```
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/48b8f4b1-db83-42d9-8a88-702cc3cf0852)
+
+I spotted this one on Dune too, we can see that he first farmed with a main wallet then started making batches of addresses which also farmed
+
+<details>
+  
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/6c1a31da-949a-43e9-bd9c-c4ce032a8c55)
+As written above, he first farmed with a main wallet then made a batch of addresses on the same day, on different occasions
+
+I noticed that it was a cluster following different transactions that it operates from several addresses on the same day, almost the same time.
 
 
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/94abb163-0ac9-49eb-b77d-25b542b0d506) 
 
 
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/36fd164c-e6e5-4eff-b1ea-bf72d2a828d5) 
 
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/5fe6fb4e-69a3-4a1d-8dff-b4f6c4f5a659) 
+
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/58d1a0b3-39d7-40f8-a3df-4757d43faff8) 
+
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/12b8f50b-ec5e-4f25-a333-d6ceeae58b9e) 
+
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/19d3d6b9-8035-4440-a50d-a4d17deaf792) 
+
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/ee9e813d-d897-4414-a56c-a05dca23c053) 
+
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/eb9ab7cf-d84d-4398-bc01-790e616dcdd2) 
+
+The applications used are similar, but what appealed to me the most was the Aptos bridge with which it has the same volume on several addresses (around $2k)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a3be1803-1485-40aa-a617-7ae74c4d57d9)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/2379c5b1-04d1-4bd4-ace2-ee07797761da)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/122569c9-5b3c-4954-aee9-2fdde2b45be8)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/c93d1262-06cc-461f-8f85-ac7bdfe01a5a)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/9ebc715f-cb72-46b3-a67e-eb0f0de87a06)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/8dfb32ac-6736-4244-9f30-c960bf7c91c4)
+
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/10955259-b38c-4445-90ec-fdeb73b47e13)
+
+
+</details>
+
+This one is obvious that it is a sybil, I remind you that all the addresses are linked and have interacted with the same Binance unique deposit address, which makes me even more confident about this report.
 
 
 
