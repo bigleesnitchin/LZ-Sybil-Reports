@@ -141,7 +141,6 @@ And he repeated this several times, so I have several batches with different add
 As here we can see, its addresses were created on the same day, their first LZ tx was made on the same day, and this over several batches
 
  
-<details>
 I then went to check its addresses on LayerZero scan and we can see several patterns there
 
 The best ranked addresses use the same applications: 
