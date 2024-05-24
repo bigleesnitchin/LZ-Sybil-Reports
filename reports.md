@@ -259,6 +259,104 @@ The applications used are similar, but what appealed to me the most was the Apto
 
 This one is obvious that it is a sybil, I remind you that all the addresses are linked and have interacted with the same Binance unique deposit address, which makes me even more confident about this report.
 
+# CLUSTER 4
+
+The first 18 addresses within the cluster are linked to the same Binance deposit address: 0xAf25335F0290C8804a2357bc3Fd3879228FEd3f5. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+
+```
+0xf55650e79a9945bcabb10953add13ff035d0dbfd
+0x102008b16f49bc0f87427894012f0a616211d2a4
+0x58c771b054edba5cf7d771c0291261ae50736513
+0x082e4ac6f1bcfa6b31f4525fdfe30c685df759ed
+0x89ed5d9f29789c0c55f415bbcd2ba259882307c0
+0x09774238fd4a4569b9319743a80e95f18f41e4e1
+0xb23ec4fb34479b2024597f7681d6cde923dfe916
+0x0a389c8c7101409831e81c82dcc9cdb13dfb4e39
+0x7c5829dfdfb607328824475e98612e1e8862d3f4
+0x815611ea3f076c2f0d5e5742431ef16cca577967
+0xcbba4a3ab07e76b57fd53e46f6ffd8dea5dced1b
+0xb1fba78da54ea383d3558f458d9cfc75b656111e
+0x9d37e8c4b4263093d812f7382c659e05c34d7ed4
+0x9daaa0ff2be321b03b78165f5ad21a44e3c14bd6
+0x763d03f7458e68dbebe324748a5065c316e4b155
+0xd87f4e2fa65daad33c413ea5bdbd8c0b1c4358a8
+0x0cf1368538c7f7994259428081d7f86f3ddd5545
+0x33f50b61c2e622494cb9906cc42eaa0675707781
+0x88483f6ac6a29d6314fada20881af919a13f6a9b
+0x5b68f545836991354dd6408d28bde37584bc69eb
+0x9990f9aad45563e2e81abad122ea790d4f4050fa
+```
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/d153cd39-ec5c-464f-bf39-7ecee768cab7)
+
+This one was more complicated given that he has SEVERAL very high rank addresses with whom he is careful not to get sybil
+
+Unfortunately for him I managed to connect several pieces of information proving that he is indeed a sybil
+
+<details>
+
+Let's start on Dune, it has several addy having their first tx on Layer Zero on the same day and who have roughly the same number of transactions for some
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/eacc2cec-f402-4fa6-9a8b-f23efcae790f)
+
+
+Then come to the most interesting part, we can see that he carried out the same transactions, at the same times and with several different addresses (especially the best ranked ones)
+</details>
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/451763fa-dbcb-4263-af0d-e823c0cb61b0)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/5054fea2-61e2-451a-b152-67dbac733575)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/2bfb9845-e574-48f3-b70b-1a01a131a649)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/642b4d5f-dde9-462e-861f-aa696e84d27a)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/1d165ea9-857d-4bb0-8bb5-2815e7efe464)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/334781b6-7e13-49c4-ad1a-73e925b78ff6)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/90ed7775-813b-426d-8141-274044aa75b4)
+
+Here we can see that he executes the same transactions, at the same times, I am sure that it is a sybil even if these transactions are not carried out on Layer Zero, we can see that it is the same person behind
+
+Furthermore, if we look at his following and followers on Debank, we can see that most of the addresses are followed by the same address: 
+
+0x73e616b9e20789c5e0102ad7c0bc8bec42dc6a58
+
+I also noticed that he used Orderly on the same day on several different addresses, I will then list the TX according to the dates used (which are the same, I remind again that all the addresses are linked to the same Binance unique deposit address)
+
+11 APRIL between Most of it happens between 11:00 and 12:00 GMT
+https://layerzeroscan.com/tx/0xc4d2261d5b5525ca38e1dd6f3431f3fe97e78e07c739be1a577204f476dace73
+https://layerzeroscan.com/tx/0x3a53dc700c26ad34db287a328d506febe5803fff40dea595b07370a0ee76a5e1
+https://layerzeroscan.com/tx/0x8d8ca07f34bd07780d346e5e3feb164865c230ae1c9110f37fe43ad91707483a
+https://layerzeroscan.com/tx/0xc4d2261d5b5525ca38e1dd6f3431f3fe97e78e07c739be1a577204f476dace73
+https://layerzeroscan.com/tx/0x2592b5e3d5a570e804d67273404bc1f2da5ccd26ed49ee33fd177718a3ce6f1e
+https://layerzeroscan.com/tx/0xa9e5809f1368bc15a2f3bbf0e063ec975cd3906005e722da1bfbec5c08d2f26f
+
+14 APRIL Most of it happens between 9:50 and 12:00. GMT
+https://layerzeroscan.com/tx/0xe6bacaa3c1d68bff4e83b1d8fc85efcef42a600c839965801b7f1b667ed4e019
+https://layerzeroscan.com/tx/0xadbdc6b504c81db57be01a0d9195312d4fc0280495bdbc6d1ab1ef936223e24f
+https://layerzeroscan.com/tx/0x1316c013733cfcfdaa27751e2aa33465c840eec85b784e49dd9388a2567c5450
+https://layerzeroscan.com/tx/0x15e91b65ac790d6915190a3e44898e7759f3aa51ba85159f7a7d9221b52294cb
+https://layerzeroscan.com/tx/0xdf470193bbfb4b2c3ccb2392323a8fb1021f520da5b0ef57e73ba76bc7bd4c47
+https://layerzeroscan.com/tx/0xe5f712a3cad67f305e971315f5d48d10c84bacd4d0e0a6f0ff1bdb8a5c8a805d
+https://layerzeroscan.com/tx/0xb946f269f5af3cdab2f0f0498576e7ccb105f2f7531179e47ae2d9d7ac780782
+
+14 APRIL Most of it happens between 9:50 and 12:00. GMT, some are after
+https://layerzeroscan.com/tx/0xdeea92353e4ad958a34e0fd45d9eda95208d9a93d18f343efcc781cef0871b6c
+https://layerzeroscan.com/tx/0xba24d767afd2c185f01e04d24d31a96a0d9614dd049d5b3fcba7b38fdc060d28
+https://layerzeroscan.com/tx/0x6f0dc1f0ed3b360825cd25fede5e04c386d6b430e9d12be639b2d00b7af9010c
+https://layerzeroscan.com/tx/0x6126a505e090fcc5b13ccaa11305455dffacb887436e8d815b30eb071a3ef72a
+https://layerzeroscan.com/tx/0xba24d767afd2c185f01e04d24d31a96a0d9614dd049d5b3fcba7b38fdc060d28
+https://layerzeroscan.com/tx/0xd8e4ef21efef1a32670133a146ba79271123d8d9147527380d1ea8e72f06bd3b
+https://layerzeroscan.com/tx/0x1d101c450f1c92d9609c78be3ad058b4e415c3fa0f6d6a9d0d6abf8cde8c9362
+
+</details>
+
+
+
+
+
+
 
 
 
