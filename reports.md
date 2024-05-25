@@ -633,7 +633,7 @@ The first 13 addresses within the cluster are linked to the same Binance deposit
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/8d7712d6-dea5-4fcf-a603-51c99747607e)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/723e3a64-b80b-4e46-88d1-3654755bd381)
 
-This one is a compulsive farmer who in about ten days created 35 addresses and started farming, I will bring some arguments on chain in addition.
+This one created 35 addresses in 10 days and started farming, I will bring some arguments on chain in addition.
 
 <details>
   
@@ -651,10 +651,11 @@ This one is a compulsive farmer who in about ten days created 35 addresses and s
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/7ca1ad02-d1cb-4412-8963-7e2ade4a1ce4)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/b86bd515-e0c0-495e-b738-06c03dba0324)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/d724b6c9-4f19-45ef-9956-f28de41b54c8)
-Ok here we can see that he's only using the same chain to bridge his funds and make volume with ALL HIS WALLET litterrally. 
+
+``` Ok here we can see that he's only using the same chain to bridge his funds and make volume with ALL HIS WALLET litterrally. 
 We can also notice that he sends funds to the same address that we find each time on the screens: 
 0x80c67432656d59144ceff962e8faf8926599bcf8
-This address is the Orbiter Bridge.
+This address is the Orbiter Bridge. ```
 
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/7a8064ae-8c69-493d-bc2f-6e4c68c722aa)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/da8752f9-f5ff-479f-8711-56f1cc63fbb2)
@@ -668,7 +669,7 @@ This address is the Orbiter Bridge.
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/c5ac0dab-f7d8-4d0e-84f0-58503e17a5cf)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/b7985178-66be-4735-a7a9-937eea43ef3d)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/5a4fb7d9-6882-4ed1-943f-8991fde97da2)
-He make the same transactions, the same day on all addresses
+``` He make the same transactions, the same day on all addresses ```
 </details>
 This one is a big compulsive farmer, easy to find from the Dune data. 
 He produces volume by bridging from Avalanche to Arbitrum and so on with all his wallets.
