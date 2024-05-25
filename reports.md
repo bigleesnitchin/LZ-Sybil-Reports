@@ -470,4 +470,33 @@ We can also see that SyncSwap is its top protocol on its top addresses, it comes
 This one was a little more difficult since there wasn't much evidence on Dune, I had to manage on chain but like all sybils it makes mistakes, in this case it frequently uses SyncSwap on his addresses, I was able to find a day when he made transactions on quite a few of his addresses.
 
 # CLUSTER 7
-
+The first 19 addresses within the cluster are linked to the same Binance deposit address: 0xC4B9687ED789FA9Fee96d2BD880CC904c78163a1. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+```
+0xb09110e39e0db45dfd7797109882014e7a66038b
+0x0283a23b62fcb3e37fcd4205d499ae42bfc4340a
+0xf3443f7071a4b39908acabc6bff79cf64296d235
+0x12889eba53806e26c663bbd5f3779baedaaf2822
+0x650849425bb8401f08e217dbf7ca22f753e25744
+0x90d107b34e84ae88b57b54f095f090252280dc2a
+0x1e82cdc70375fff785b695b38976b83b79a30c2f
+0xf37a48956560079dde12159a47935f2d5e9169fb
+0x57d1d4dc4e3f05f68ffe78d61193558e0ec71961
+0x372fa25ea9647da526b5b001bd18361f00f2d408
+0xee9b89df4d6565a7c22b0787db62e00b0df1f6c7
+0x3f17ef1accd9c705030ea6ea72d7a64554ff5220
+0x59e133b2114289f7b506e13e7f86c694e1b94734
+0xd02691f93ac36db3038a4159bd2ac24bef39d360
+0xfbb16d668e9b83e677d6170eb977dbe3165bff3e
+0x7e68a7a2ade5b537b907fa9d1943ad70c915ec86
+0x0b95f218d9032ebcb9ea928c7621e2ec7d19e390
+0x8434f6eae6c543ca61bf94e4b3d797a99afc008e
+0x4edc30792623c82b02d9ce770ba9b32ea68f4244
+0x70c993f4f788554dcb2f6762a50230eeeee71636
+0xb9c4b3ff78912051f0c92155e15c82391619f39f
+0xd932e0c681d182cd576f6df450c716c7dfc89956
+0x5cfcaee09dac4c664b948ad7dec41d5554afd043
+0x7a19c1948df3153aed47da5a3606a531d775b8cd
+0x7ac9e6dd61a4ac8f9cd3ed3a52100c3f54bef57c
+0xecec188d4299d8f00d8942f9b2e9b7210e9bb614
+0x625ef20d6b8594213ca014f1009d137c90fececd
+```
