@@ -558,6 +558,7 @@ The first 19 addresses within the cluster are linked to the same Binance deposit
 Another one who made batches of addresses, I will add some proofs on chain to be sure.
 
 <details>
+  
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/83b34fb8-22a0-4eb1-9c25-3dbd82513b4c)
 
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/ce9db298-ba27-46e4-a507-b44cbc58d863)
@@ -596,6 +597,78 @@ Bonus: We can see that he mainly uses Stargate on several chains with all the ad
 
 # CLUSTER 9
 
-The first 13 addresses within the cluster are linked to the same Binance deposit address: 0x321cBAdB105aB951Aa2Ff015cB268db641568a63. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+The first 13 addresses within the cluster are linked to the same Binance deposit address: 0xFb1C9582d64f31c546Eac2a1d8f4c00DcBC03262. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
 ```
+0xa1b0d7162a63457bb2bc0a8825c5fac48dd92c25
+0xba9f9664571d41ed2d9486cbf64bedd399979a50
+0xa9512bbdd38cbc1041ca167c55664c421ba77fb0
+0xc96b4f52ca0f9a49dfd7fcaa6edcae9bd3053d09
+0xfbb3351c603db8ffc9e8d683a930bb3f8d85eaea
+0xcc8649e011f0c50892edfc72c4cbb2dd350295df
+0xc4838ae9f077652792e462def589237a6d97d47e
+0x4174568edeac7e38fe86c115a2a1434c51564c4e
+0xaa43f62d03990bc39abbdb0874269152a186101f
+0x11f64d387663f91499b38e539390b9aafa372cf3
+0x79799ed6c3146dd4079f69936461e3d01df84d95
+0x03fbbd22ea24faa2217d669b142e1ad38be4eee8
+0x0c38f5018ad634aebc2ae514d1e6ce42992f4931
+0x809ab464e2c313b4806d700c7e37233f5e01e48c
+0x80ead9c9ea42c71c27a6d8c403d9b81640f5db91
+0x5b57abcf3d3efabe9d4cf0a280c42e8403d1ae49
+0xf60db0135520d634892c102f7d59b7e21557c4d7
+0x653871118edbe7d8666b9fa6937d0e9b24ae29ee
+0x52942386567728cd1c8ba1fd430561781e121f1e
+0xe5223b9d911d3cf795ba498bde288dedd62eeac7
+0x98d52aaa2b4342306876de1402711fffca1bccce
+0xaa878d5b057beabe4192f85391553c6da00c92c0
+0x38214aee1e548dda463e6ead4db91044f76a0657
+0x174d3739438b87eecb86e5dca163ba0032221556
+0x773d1df6da28ce91b9c877d52ee88be8cef2b956
+0x757b421e5c49f7666dfe44be04228b8881341245
+0x1b52bf8ec3e5260e82e8841f878244239b50bd86
+0x11e3472d4a3ce3d2afad277af5d096946d145b2a
+0x8e32c75f65b7a7d6c6b571ff078217e930436881
+0x388fe51c388176d269309226893fdd6f5cf3a517
+```
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/8d7712d6-dea5-4fcf-a603-51c99747607e)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/723e3a64-b80b-4e46-88d1-3654755bd381)
 
+This one is a compulsive farmer who in about ten days created 35 addresses and started farming, I will bring some arguments on chain in addition.
+
+<details>
+  
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/e9b0f868-a815-4d52-abfa-2780a0a9ef7c)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/31c714e8-ba71-4ff0-9e4c-0240d8f785cf)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f048d641-45ce-4ab9-8da2-094754a5fd1a)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/3dcd09a1-327a-401f-92fa-af6fbad244e1)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/4d6507a2-0eec-4f3b-9044-e585fe8e64f3)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/af1278b3-efd6-4b48-94e9-91e2b4935633)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/d40aad84-bc7b-4a88-b0ed-3fc0bf4e169c)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f76fc268-e828-4450-a73a-1012dbf90beb)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/d23a8014-a185-47c0-ae6b-c1b5efdf211e)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/68125de8-ffdb-4715-8588-d0872fce3982)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/1d55341b-0a32-43f5-b055-c9035c6a7180)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/7ca1ad02-d1cb-4412-8963-7e2ade4a1ce4)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/b86bd515-e0c0-495e-b738-06c03dba0324)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/d724b6c9-4f19-45ef-9956-f28de41b54c8)
+Ok here we can see that he's only using the same chain to bridge his funds and make volume with ALL HIS WALLET litterrally. 
+We can also notice that he sends funds to the same address that we find each time on the screens: 
+0x80c67432656d59144ceff962e8faf8926599bcf8
+This address is the Orbiter Bridge.
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/7a8064ae-8c69-493d-bc2f-6e4c68c722aa)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/da8752f9-f5ff-479f-8711-56f1cc63fbb2)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/1c01d9d0-c94f-45ab-8ccf-da2c071b7da2)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/cf415120-8c18-4786-9d56-515ad1c5e39a)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/844b4979-48da-42c6-aa55-78e717978e86)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/50a8ae36-90fc-4110-b18e-126ce3875782)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f9b4ade6-c80f-4918-948e-97c637ca1959)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/3e2b2572-d5da-4b71-99f3-db9152c8e8bc)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a5f3214c-4456-406f-9419-64a479ffb939)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/c5ac0dab-f7d8-4d0e-84f0-58503e17a5cf)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/b7985178-66be-4735-a7a9-937eea43ef3d)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/5a4fb7d9-6882-4ed1-943f-8991fde97da2)
+He make the same transactions, the same day on all addresses
+</details>
+This one is a big compulsive farmer, easy to find from the Dune data. 
+He produces volume by bridging from Avalanche to Arbitrum and so on with all his wallets.
