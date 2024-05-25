@@ -359,12 +359,55 @@ What betrays this cluster are the addresses that it created at the same time lat
 Unfortunately, he uses the same applications at the same times for his well-ranked addresses as for batch of addresses created later.
 
 
+# CLUSTER 5
 
+The first 18 addresses within the cluster are linked to the same Binance deposit address: 0x4B505Cd61AfDA49F231726271c84627B2666F809. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
 
+```
+0x63c24f164fa69f4db7f45f211a8e089c157b4747
+0x6e2ce22c13eff481456db5c975fdd0e3f161f611
+0x4e91394b30162d5a63a09f5cfe253a09d05254c5
+0xbcc543e49afbaecfb65f4cdbeac271a97e735f45
+0x3d8b8ea64af099a0d2dfd9f0c97164628ee422e7
+0x53157a5ff07955f323a7624ae81c1add7e15d9fc
+0xa4bd43301b38698faac1a179f2d2729e2ebb2dfd
+0x427da433d001c8e4e4991a544575dafaf493399d
+0xcdac5fa9d6f811a1e63714b0d4fe7bbebe07df0b
+0x695aa322e8b30aef3a0a417bd49612fc69b9313f
+0x64ea7be4d6ed0621aefe1ffe6d7d38e9a6396eb7
+0x2c3d78b8ab518d5ff6b909343f6865df41b3dcf0
+0xc1e66188827800152f5e98190f9c59c9ecbcfed0
+0x45f93ad7124ddd2d578e40de6f0836548433707c
+0xa872e46e6da69402303522bcdf9f4538d16175ed
+0xc9f308d054b9c66a65dbcc1878772707ba96135e
+0x600d1bf9ad00514196ed9a96c5afbddb471478c9
+0x8d1d836f06d271028d028b4fb7ba4386795b9d0d
+0xca8ba91243bee135fdf59fc509b27fded695c387
+0x6216977058c2a6ce9b910a119f3d0131b0e7889d
+0xc60b220f62578df2e584349dfb3a771780a300ed
+0x327a8065328da20491ff01a7735733c8c39bb685
+```
 
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a338e2d8-c357-4de6-a839-934f1ed64878)
 
+This one was pretty easy to find, he made several batches of addresses which carried out their first transaction on the same day (cf Dune s/s)
 
+<details>
+  
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/8449df58-f04c-4973-91be-e7f8366dd50b)
+As you can see, he created his batch of addresses each time on the same day. Then he made his first Layer Zero trades on the same day as well
+We can also see that he has approximately the same number of transactions on the address batches
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/dc444327-3b5d-4ebf-a242-1c68a7c55ef9)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/5bcc4325-c7e5-4d0d-b21a-192c0b723832)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/323e1639-102e-49d1-bd3c-7f02ac2ec922)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/2bc0aaa4-dea7-47fd-835e-9a5fd39dec28)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f1e04b18-dfbe-4c7a-bf15-16e28b3c3143)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/db25f003-a134-4f56-bc8f-0749b517575a)
+</details>
 
+This one is a sybil for sure, just on the dates of creation of wallet it helped me to know but to be sure I checked several of his addresses and I noticed that he made the same transaction on Syncswap the same day.
+
+In addition to that it almost only uses Syncswap on all wallets.
 
 
 
