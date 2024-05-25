@@ -470,61 +470,6 @@ I remind you that all these addresses share the same/interacted with the same un
 This one was a little more difficult since there wasn't much evidence on Dune, I had to manage on chain but like all sybils it makes mistakes, in this case it frequently uses SyncSwap on his addresses, I was able to find a day when he made transactions on quite a few of his addresses.
 
 # CLUSTER 7
-The first 19 addresses within the cluster are linked to the same Binance deposit address: 0xC4B9687ED789FA9Fee96d2BD880CC904c78163a1. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
-```
-0xb09110e39e0db45dfd7797109882014e7a66038b
-0x0283a23b62fcb3e37fcd4205d499ae42bfc4340a
-0xf3443f7071a4b39908acabc6bff79cf64296d235
-0x12889eba53806e26c663bbd5f3779baedaaf2822
-0x650849425bb8401f08e217dbf7ca22f753e25744
-0x90d107b34e84ae88b57b54f095f090252280dc2a
-0x1e82cdc70375fff785b695b38976b83b79a30c2f
-0xf37a48956560079dde12159a47935f2d5e9169fb
-0x57d1d4dc4e3f05f68ffe78d61193558e0ec71961
-0x372fa25ea9647da526b5b001bd18361f00f2d408
-0xee9b89df4d6565a7c22b0787db62e00b0df1f6c7
-0x3f17ef1accd9c705030ea6ea72d7a64554ff5220
-0x59e133b2114289f7b506e13e7f86c694e1b94734
-0xd02691f93ac36db3038a4159bd2ac24bef39d360
-0xfbb16d668e9b83e677d6170eb977dbe3165bff3e
-0x7e68a7a2ade5b537b907fa9d1943ad70c915ec86
-0x0b95f218d9032ebcb9ea928c7621e2ec7d19e390
-0x8434f6eae6c543ca61bf94e4b3d797a99afc008e
-0x4edc30792623c82b02d9ce770ba9b32ea68f4244
-0x70c993f4f788554dcb2f6762a50230eeeee71636
-0xb9c4b3ff78912051f0c92155e15c82391619f39f
-0xd932e0c681d182cd576f6df450c716c7dfc89956
-0x5cfcaee09dac4c664b948ad7dec41d5554afd043
-0x7a19c1948df3153aed47da5a3606a531d775b8cd
-0x7ac9e6dd61a4ac8f9cd3ed3a52100c3f54bef57c
-0xecec188d4299d8f00d8942f9b2e9b7210e9bb614
-0x625ef20d6b8594213ca014f1009d137c90fececd
-```
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/ad21694e-467e-433c-9a26-bdbbf3b54dd5)
-
-This one is one of my favorite types of sybil, he made batches of addresses having had their first LZ interaction on the same day that I found on Dune
-
-<details>
-  
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/587d4c23-8f4c-4a56-a2d1-6da152b15203)
-Here it's not difficult to spot, he made his first TXs the same day on a batch of addresses
-  
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/fea21bc2-c6a2-4b69-869d-3c9ebfe4c1f5)
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/b8d69321-0538-4cf8-aaf2-97d38f3813ab)
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a9932b3f-18f9-47db-a77a-9a617ac15506)
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/99c11866-d9ba-4f04-b6e1-fc1bc9729c1e)
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f1c06030-1e3b-436a-afff-5c30ef636536)
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/aa6a709c-9bc8-484e-aade-fa9bdb75c1e3)
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/20a01bf5-9b87-402b-8a48-cc9fb5e8eb52)
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/1ab13910-ecb9-4bcd-a354-c373ae18d4f9)
-
-Here we can see that he farmed another airdrop two years ago, he used the Optimism bridge on several addresses on 04/12/22
-</details>
-
-Classic Sybil which makes batches of addresses which have already interacted with each other as well as with the same Binance deposit address. (Like all other clusters)
-
-# CLUSTER 8
-
 The first 19 addresses within the cluster are linked to the same Binance deposit address: 0x127e32704c645a00E56CEaa78A6E973A14511dB8. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
 ```
 0x0125054443c774ac1009187b54bd6b035ee4c61a
@@ -548,22 +493,109 @@ The first 19 addresses within the cluster are linked to the same Binance deposit
 0x4eb62eee2b9911b24208552628c009b2f44f0c7c
 0xff05cb914b4b6b25fd82100e2503e37923590063
 0x175a0cc46a5430c62f48368f5cba1c66b4b3d56d
-```
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a3722f87-d224-400c-bf25-772dfcae366b)
 
-Another one who made batches of addresses, I will add some proofs on chain to be sure.
+```
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/ad21694e-467e-433c-9a26-bdbbf3b54dd5)
+
+This one is one of my favorite types of sybil, he made batches of addresses having had their first LZ interaction on the same day that I found on Dune
 
 <details>
   
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/587d4c23-8f4c-4a56-a2d1-6da152b15203)
+Here it's not difficult to spot, he made his first TXs the same day on a batch of addresses
+  
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/fea21bc2-c6a2-4b69-869d-3c9ebfe4c1f5)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/b8d69321-0538-4cf8-aaf2-97d38f3813ab)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a9932b3f-18f9-47db-a77a-9a617ac15506)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/99c11866-d9ba-4f04-b6e1-fc1bc9729c1e)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f1c06030-1e3b-436a-afff-5c30ef636536)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/aa6a709c-9bc8-484e-aade-fa9bdb75c1e3)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/20a01bf5-9b87-402b-8a48-cc9fb5e8eb52)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/1ab13910-ecb9-4bcd-a354-c373ae18d4f9)
+
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/bf1bbc18-c0fc-409f-bb85-b9996ced3e49)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/8682da42-af37-47e8-a160-5bd93a190af5)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/1f2cbd20-176f-4728-a3ec-bea3dd12d730)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a920a323-4a69-4767-851d-f5676ac8b142)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/82298520-916a-43f8-9b99-8c492948fd77)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/6e45e110-6720-4648-a9b4-7e1997cacf24)
-He used the arbitrum bridge on the same day on several addresses on the list
+He also used the arbitrum bridge on the same day on several addresses on the list
+
+Here we can see that he farmed another airdrop two years ago, he used the Optimism bridge on several addresses on 04/12/22
 </details>
 
-He used the Arbitrum bridge on the same day successively with several addresses, clear proof that it is a sybil in addition to the premiere dates TX LZ. 
-It also uses Stargate on Arbitrum with all addresses, an easy sybil that one.
-I remind you that all the addresses on the list, as written above, share the same unique Binance deposit address.
+Classic Sybil which makes batches of addresses which have already interacted with each other as well as with the same Binance deposit address. (Like all other clusters)
+
+# CLUSTER 8
+
+The first 19 addresses within the cluster are linked to the same Binance deposit address: 0x321cBAdB105aB951Aa2Ff015cB268db641568a63. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+```
+0xc89bd5d46d4ccda62207bedbb15b6b28641c4277
+0x96c019c06f59be7681bac7da25bea92820299e2c
+0x47207bdb6f6475ef07dee363dbab9b09d891323f
+0xb5b2b10d4d15fd54446e202ab6f18af575d28390
+0xed8257292b822cfc513c450b736ca2769aef7267
+0x7bf06a0967b642b2742a73a9a91ce8bf18b7c3ef
+0xde890a6de9b4c65a0aa51280bf142528a2059e74
+0x7b0ae6b1fdb107da2b9259d7bfd4e3fe4eeae858
+0xf96b9e7818a63e2510278240200b0aabae32eb32
+0xa024e85ea6b0c6e3733909d258783672df0c7668
+0x819b6ad8340f694f13c741655e749366e5fdc750
+0x574eed1d8b45077b6513ee9e433fb104a1a99047
+0xec1e8b34fd51a53f1e44f40a31a6a6428f2529bb
+0xd91906202dbfa4e9182e2ff3549e2023fe7c69a4
+0x305edf50c41ec022d7def07cbc6b78ab7c9e25da
+0xe1ef9f054ff7dc129775f7a38720b257f7efe417
+0xb44f6554eb9c6da5e7fb776cfde031da724887e1
+0xb2dc8730944e592f73d8379e00c973ae165190c9
+0x8808b966f5e84b920aa354221c469a8f47886646
+0xc30e37b20ff172b235f9b10bb367ddc257b55d5e
+
+```
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/881ddaa1-dac9-4c7b-a8b4-75b152dd9889)
+
+
+Another one who made batches of addresses, I will add some proofs on chain to be sure.
+
+<details>
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/83b34fb8-22a0-4eb1-9c25-3dbd82513b4c)
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/ce9db298-ba27-46e4-a507-b44cbc58d863)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/e6cb9dcd-383f-4c08-80db-211c56ad6855)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/2bd6c885-748c-4234-a1f4-9dc7e3d0c6d7)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/770987f2-b3a3-419c-ba70-9ffff34cb51c)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/fa43ee57-fff9-4348-9f2e-9f17e9181ef2)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/e2feb7ce-1fa0-402f-a3fb-31cd4702907f)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/50e8988b-217d-4bb9-ac85-10eb2813a5df)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/82db7a8b-ce37-44ad-8bad-1cf7d8bb254a)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/043a7876-c773-4f51-afa5-a072edddea11)
+Here we can see that he reproduced the same tx, the same day on several addresses
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/8075e7c0-9e23-4cf2-8f45-1eb9261243bc)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/9ef1b326-2771-4eeb-a467-b5d56d4c09d4)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/9fc167fa-6427-4deb-b7f3-dc328dd07f56)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/0b878f2c-4149-4133-97cb-3e01a58157e5)
+Here we can see that he added liquidity on the same day several times on other different addresses again
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/9bd6030a-e69f-4237-b6e7-8e7fde22a4cb)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/d8bb9bd0-4383-4873-a716-4d851c37c0e3)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/6f287b3d-6f61-4891-a3fc-70cb632d96dc)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/2f7e3ebd-140c-4005-b4fc-27e4bc4475fc)
+
+
+
+
+
+
+
+
+
+</details>
+
+This one was a rather easy sybil to prove, it reproduces the same transactions on Stargate Arbitrum
+
+Bonus: We can see that he mainly uses Stargate on several chains with all the addresses to make volume, I suspect scripting on that one. I only put a few screens but absolutely all of his addresses make up a huge volume on Stargate. 
+
+# CLUSTER 9
+
+The first 13 addresses within the cluster are linked to the same Binance deposit address: 0x321cBAdB105aB951Aa2Ff015cB268db641568a63. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+```
+
