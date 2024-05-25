@@ -672,5 +672,6 @@ This address is the Orbiter Bridge. ```
 
 ``` He make the same transactions, the same day on all addresses ```
 </details> 
+As we can see on the screens, all its addresses produce the same transactions.
 This one is a big compulsive farmer, easy to find from the Dune data. 
 He produces volume by bridging from Avalanche to Arbitrum and so on with all his wallets.
