@@ -523,4 +523,46 @@ Here we can see that he farmed another airdrop two years ago, he used the Optimi
 
 Classic Sybil which makes batches of addresses which have already interacted with each other as well as with the same Binance deposit address. (Like all other clusters)
 
-# CLUSTER 7
+# CLUSTER 8
+
+The first 19 addresses within the cluster are linked to the same Binance deposit address: 0x127e32704c645a00E56CEaa78A6E973A14511dB8. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+```
+0x0125054443c774ac1009187b54bd6b035ee4c61a
+0x30dddde80843855ea3d7570c11a5c993365e5b20
+0x400996bc4bf162ef75dde4e7a5d96c7e4d0e3e57
+0x7c5c6f2970e6d50a48f3f99a213335f61c8a2d4a
+0x49a52656696b97d5a2363db0d05c4b0da1453f2a
+0x27ece28bfbf510ac79e0422bad99bc45058b08a3
+0xa00acb286bf2c21a1360ecc48ad0c961916508d0
+0x9b5a5580183a96e090210b48ef86bf97eb3724fd
+0x2cf3ff760cfdefe248f53a12dfca2ee887d27637
+0x1435109a44fc9e054d2f0c8c7a46656f1bd1d9af
+0x987c15e6c547b0c1cd434308dc53225e503f101c
+0x2826a704404a44a951f892d17af4e409dc0e6218
+0x06eb75c251183dbf6e33df96e93f7d04556790d6
+0x8e445245b2301762e850606cf8767e80915231e1
+0x3ae627abfef7d41a7c2c0ec1df3e0ddcb3b621df
+0xf94d545f8c0154cb7cad6fcf2cbd494371f36fd5
+0x0a2f025dca948bda7eef9f2d10a5b0b864c1fccf
+0xbe6bd50565199c4eab3bca7b96d3a8331f06dfea
+0x4eb62eee2b9911b24208552628c009b2f44f0c7c
+0xff05cb914b4b6b25fd82100e2503e37923590063
+0x175a0cc46a5430c62f48368f5cba1c66b4b3d56d
+```
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a3722f87-d224-400c-bf25-772dfcae366b)
+
+Another one who made batches of addresses, I will add some proofs on chain to be sure.
+
+<details>
+  
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/bf1bbc18-c0fc-409f-bb85-b9996ced3e49)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/8682da42-af37-47e8-a160-5bd93a190af5)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/1f2cbd20-176f-4728-a3ec-bea3dd12d730)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a920a323-4a69-4767-851d-f5676ac8b142)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/82298520-916a-43f8-9b99-8c492948fd77)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/6e45e110-6720-4648-a9b4-7e1997cacf24)
+He used the arbitrum bridge on the same day on several addresses on the list
+</details>
+
+He used the Arbitrum bridge on the same day successively with several addresses, clear proof that it is a sybil in addition to the premiere dates TX LZ. 
+It also uses Stargate on Arbitrum with all addresses, an easy sybil that one.
