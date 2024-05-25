@@ -446,6 +446,7 @@ The first 18 addresses within the cluster are linked to the same Binance deposit
 This one was a little harder to find since the addresses were created on different days and didn't have the same number of transactions, I had to look for more evidence directly on chain
 
 <details>
+  
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/0ff6ddde-71f6-44fb-b067-9a30dc412689)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/3557b942-d465-4bc7-a748-c449c800b721)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/0f85849c-ffd7-44b5-9888-66c537c0eb25)
