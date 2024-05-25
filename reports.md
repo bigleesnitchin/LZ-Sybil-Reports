@@ -409,5 +409,64 @@ This one is a sybil for sure, just on the dates of creation of wallet it helped 
 
 In addition to that it almost only uses Syncswap on all wallets.
 
+# CLUSTER 6
+The first 18 addresses within the cluster are linked to the same Binance deposit address: 0xC4B9687ED789FA9Fee96d2BD880CC904c78163a1. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
 
+```
+0xb09110e39e0db45dfd7797109882014e7a66038b
+0x0283a23b62fcb3e37fcd4205d499ae42bfc4340a
+0xf3443f7071a4b39908acabc6bff79cf64296d235
+0x12889eba53806e26c663bbd5f3779baedaaf2822
+0x650849425bb8401f08e217dbf7ca22f753e25744
+0x90d107b34e84ae88b57b54f095f090252280dc2a
+0x1e82cdc70375fff785b695b38976b83b79a30c2f
+0xf37a48956560079dde12159a47935f2d5e9169fb
+0x57d1d4dc4e3f05f68ffe78d61193558e0ec71961
+0x372fa25ea9647da526b5b001bd18361f00f2d408
+0xee9b89df4d6565a7c22b0787db62e00b0df1f6c7
+0x3f17ef1accd9c705030ea6ea72d7a64554ff5220
+0x59e133b2114289f7b506e13e7f86c694e1b94734
+0xd02691f93ac36db3038a4159bd2ac24bef39d360
+0xfbb16d668e9b83e677d6170eb977dbe3165bff3e
+0x7e68a7a2ade5b537b907fa9d1943ad70c915ec86
+0x0b95f218d9032ebcb9ea928c7621e2ec7d19e390
+0x8434f6eae6c543ca61bf94e4b3d797a99afc008e
+0x4edc30792623c82b02d9ce770ba9b32ea68f4244
+0x70c993f4f788554dcb2f6762a50230eeeee71636
+0xb9c4b3ff78912051f0c92155e15c82391619f39f
+0xd932e0c681d182cd576f6df450c716c7dfc89956
+0x5cfcaee09dac4c664b948ad7dec41d5554afd043
+0x7a19c1948df3153aed47da5a3606a531d775b8cd
+0x7ac9e6dd61a4ac8f9cd3ed3a52100c3f54bef57c
+0xecec188d4299d8f00d8942f9b2e9b7210e9bb614
+0x625ef20d6b8594213ca014f1009d137c90fececd
+```
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/679e3239-894b-4e6a-95b3-0f81180c2701)
+
+This one was a little harder to find since the addresses were created on different days and didn't have the same number of transactions, I had to look for more evidence directly on chain
+
+<details>
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/0ff6ddde-71f6-44fb-b067-9a30dc412689)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/3557b942-d465-4bc7-a748-c449c800b721)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/0f85849c-ffd7-44b5-9888-66c537c0eb25)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/7150d87e-0077-424f-a2f8-c34cc7cb9887)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/96a9a674-f862-4d38-917b-b21791faa962)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/7c48af70-9843-40fd-8021-af20366b222f)
+We can see that different of his wallets had a lot of activity between the evening of 05/18/23 and 05/19/23, all on SyncSwap
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/d3e6b34c-0859-498e-99b6-11e20e4852ee)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/aec3de6a-afb7-4f6b-a039-a9fdf6d71fbd)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/ab039198-8908-43c4-a8ba-e49be42db69a)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/e8168bc2-2512-40af-ae39-9fca402e9ceb)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/775e9383-845f-45f8-b675-b01ce40b5a14)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/9cfd8f57-cb84-4857-9ac4-403214e99da2)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/8ebcd5a0-1445-4bab-8840-61a4165319c8)
+
+We can also see that SyncSwap is its top protocol on its top addresses, it comes back every time.
+
+</details>
+
+This one was a little more difficult since there wasn't much evidence on Dune, I had to manage on chain but like all sybils it makes mistakes, in this case it frequently uses SyncSwap on his addresses, I was able to find a day when he made transactions on quite a few of his addresses.
+
+# CLUSTER 7
 
