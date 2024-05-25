@@ -464,7 +464,7 @@ We can see that different of his wallets had a lot of activity between the eveni
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/8ebcd5a0-1445-4bab-8840-61a4165319c8)
 
 We can also see that SyncSwap is its top protocol on its top addresses, it comes back every time.
-
+I remind you that all these addresses share the same/interacted with the same unique Binance deposit address
 </details>
 
 This one was a little more difficult since there wasn't much evidence on Dune, I had to manage on chain but like all sybils it makes mistakes, in this case it frequently uses SyncSwap on his addresses, I was able to find a day when he made transactions on quite a few of his addresses.
@@ -500,3 +500,27 @@ The first 19 addresses within the cluster are linked to the same Binance deposit
 0xecec188d4299d8f00d8942f9b2e9b7210e9bb614
 0x625ef20d6b8594213ca014f1009d137c90fececd
 ```
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/ad21694e-467e-433c-9a26-bdbbf3b54dd5)
+
+This one is one of my favorite types of sybil, he made batches of addresses having had their first LZ interaction on the same day that I found on Dune
+
+<details>
+  
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/587d4c23-8f4c-4a56-a2d1-6da152b15203)
+Here it's not difficult to spot, he made his first TXs the same day on a batch of addresses
+  
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/fea21bc2-c6a2-4b69-869d-3c9ebfe4c1f5)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/b8d69321-0538-4cf8-aaf2-97d38f3813ab)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a9932b3f-18f9-47db-a77a-9a617ac15506)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/99c11866-d9ba-4f04-b6e1-fc1bc9729c1e)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f1c06030-1e3b-436a-afff-5c30ef636536)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/aa6a709c-9bc8-484e-aade-fa9bdb75c1e3)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/20a01bf5-9b87-402b-8a48-cc9fb5e8eb52)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/1ab13910-ecb9-4bcd-a354-c373ae18d4f9)
+
+Here we can see that he farmed another airdrop two years ago, he used the Optimism bridge on several addresses on 04/12/22
+</details>
+
+Classic Sybil which makes batches of addresses which have already interacted with each other as well as with the same Binance deposit address. (Like all other clusters)
+
+# CLUSTER 7
