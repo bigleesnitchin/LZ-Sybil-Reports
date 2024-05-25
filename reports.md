@@ -566,3 +566,4 @@ He used the arbitrum bridge on the same day on several addresses on the list
 
 He used the Arbitrum bridge on the same day successively with several addresses, clear proof that it is a sybil in addition to the premiere dates TX LZ. 
 It also uses Stargate on Arbitrum with all addresses, an easy sybil that one.
+I remind you that all the addresses on the list, as written above, share the same unique Binance deposit address.
