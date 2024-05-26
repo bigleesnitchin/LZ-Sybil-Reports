@@ -969,7 +969,6 @@ The first 21 addresses within the cluster are linked to the same OKX deposit add
 0x7aa819e41693e9f435ec7da54e8cfd08d03dba6b
 0x11a9ad3e94ce7a21f5bf14174e328bc7c5eeb6fa
 0xcf30a573e3ac5e855fe23bf85ff78ef62db9e52b
-0x9075e2b4f1778bf527ca6605a98f720f3954dd5f
 0x3b5c6db44c2e63309e3c570b0f7c3569d2371ffa
 0xde765b9d2a5b5b8e9e952da5ac3e43b011cdb289
 0x4ca644b441749ac1b29a26f2189ad7c29435c20a
@@ -981,15 +980,41 @@ The first 21 addresses within the cluster are linked to the same OKX deposit add
 0x3fa4a5319fe925770965f5a4d12361cceb39311e
 0x6762391958d87d5fa4d1252997615412a6a70651
 0x0611133571496e814294cd17067f4c14eee7d04f
-0x2bba0ec0af14a633693ed73d36b5ab2eea4ea888
 0x782f17e27322fb4d8a331f58f5d0e25dd0484a23
-0x805a58e0d9b797249dee2e19f6d5e7e6fffda769
+
 ```
+
 <img width="665" alt="Capture d’écran 2024-05-26 à 15 49 41" src="https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/21ae01c6-f1a8-41c9-b0c3-7d2e20f718ed">
 This one made several small batches of addresses to farm with. Some share the same creation date as well as the first transaction date LZ.
 <details>
 <img width="1375" alt="Capture d’écran 2024-05-26 à 15 58 45" src="https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/344ccebc-e099-40b3-996a-a44187a3e76b">
-</details>
+  
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/be5eb714-d3b4-4cd0-be50-8b3262f23977)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/705fdf18-4ebd-4a35-b5d6-e2192e9ea5bb)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/4de48bab-1a13-44f0-8b29-0f687034450c)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/3f7f8ac3-24ce-4407-bd1c-af568a9e467a)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/94aea1e4-6527-43bb-bc4f-d19a02eb9ec6)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a3d82126-5103-4cb4-a40f-abac7d3ffa4c)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/fa4ef05a-3085-4270-bef9-e1302068bd93)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/ee046199-efd8-4bcf-9e50-01fcfa2ccb7d)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/ac94ee42-4e29-4925-b593-d7738fbf92e4)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/47210213-d155-4670-8823-d905f77965ff)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/b9352cf4-4711-4958-b348-aabfd9213ee5)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/b60f4975-c79c-426f-9dc2-9474d7710d93)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/13fcb4dd-4791-4555-a340-270be34e7fab)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/dfd701ba-c365-4a55-8bcb-e73b7f1bbe97)
 
+23/07
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/71f71deb-74bb-4602-9c3b-e12e92d3c78a)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/6dba30bb-0b63-4a5d-b960-e75552397ea9)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f940915b-f44f-4bc9-a468-723a424e29c9)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f29552b7-cd35-40d8-95f6-306dcfe4bed6)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/e8a80076-87bd-4a64-83f4-bc7f97874d30)
+
+26/07
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/4a6e67b3-ec1d-4655-8f6a-8860c64b5221)
+
+</details>
+Sybil cluster script farming multiple airdrop, across +20 wallets. Here was the proof with Linea bridge.
 # CLUSTER 14
 
