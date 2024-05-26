@@ -782,6 +782,7 @@ The first 19 addresses within the cluster are linked to the same OKX Wallet depo
 0x280b4c58dcf404d76961f57a7a781744fb38722a
 ```
 <img width="655" alt="Capture d’écran 2024-05-26 à 15 24 05" src="https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/1d723ad7-faec-4af3-8bfc-47c64d58193a">
+
 I spotted this one from Dune. I saw that he made several batches of addresses with whom he made his first TX LZ on the same day.
 
 <details>
@@ -792,4 +793,53 @@ I spotted this one from Dune. I saw that he made several batches of addresses wi
 
 # CLUSTER 12
 
-The first 19 addresses within the cluster are linked to the same Binance deposit address: 0xaAecAce720A40Ef21d0545efeb1bd965B67DE1B6. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+The first 5 addresses within the cluster are linked to the same OKX deposit address: 0xaAecAce720A40Ef21d0545efeb1bd965B67DE1B6. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+```
+0xe356e7af80b8626a2b6ec11c32ad936c50a98a92
+0xd4f20f43eef492a6cb117c698c0a1cbba42811e4
+0x247119d2fe1e1276341b39235dafaf48901603fe
+0x653b4c9532363bb07d36d93820e6916c17663bae
+0x90208ffbf774d70b1433f6d64709fdf62104f77a
+0xd2033db9c5370ac76abd80823b5c5adc097e2fbf
+0xc5840af43749fd2a85103165c88e1891d2a64582
+0xccbc524ebe1a9d7f0db3fbd10bc5c6e57768a28e
+0xb2dd985116db690461fa28e03ba2a08a60af90a1
+0x4bdcba858dca35ecdc2a61bf0db4780e19a2d7dd
+0x5c29e2143a07f0b20a5881e1a353f95140c73d83
+0x5c33052e154964da3d26c8b8610d508df050476e
+0x645237614d9472698c225d19acfe447b039fe4d7
+0xacc00e45cfe70154c9e058e21b942dae76ea352d
+0x8d31550863b9bdf7a75ef81ce9a395e14376842f
+0x96a9b72547480eb346d53c01acc781d8f2f0bf9c
+0xee525a275d1f54c22cccf1a3314f13c712d7f3a8
+0xceca708fefffc842de98454c3ac5dcfe342c3f67
+0x7c1462c014d12ce8114c8d20897746e418d0609c
+0xdd534250cc5705f8751917ec9e400d715ab6e171
+0x2825861682f978d5df5044c42df6a7fa56f43933
+0x4de4aaa78d97d2f471ef966abba3ee26a5233f71
+0xfe3766d4b8f8bf029d4fe4d355be152f9c67eb90
+0x97372ba157f00034cf4c38791d3d828a3194fc34
+0x8a2ea925521c111dad7e328a32c238898589cf3a
+0xd959eb5165d88158bf0643e6618fab4120fbd810
+0x3afdd164605122f7ee98b9197b9761d26a8772d7
+0xa891022919e40e9d6ff50dd027c07d9b37e97dcf
+0x7591b5105aae76ff8e8a601c151e5f7e1df48ce8
+0x4fbe804fe264802ee3332687f56abe755c265b94
+0x13daea54537ccb33caf9131812d0441caa2ad63c
+0x953f368f1013a40a8ade7b2e3b8d73e9c7e1f701
+0xfa699091d82933d5ed9b980d7eb1fc2341d05875
+0x12a8d9bf53b1685c262e8979aaeb81adc20baf5d
+```
+<img width="701" alt="Capture d’écran 2024-05-26 à 15 32 32" src="https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/63f45c82-e5ce-4b5d-9d2b-299e98606755">
+
+<details>
+<img width="1391" alt="Capture d’écran 2024-05-26 à 15 37 00" src="https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/296b64c1-a5d0-4de4-8c16-d45d04fe7a29">
+<img width="1389" alt="Capture d’écran 2024-05-26 à 15 37 35" src="https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/e5438659-e89a-4d79-8a12-6882999c65f6">
+This one has a typical Sybil pattern
+He carried out his first TX Layer Zero on the same day on several batches of addresses
+The date of creation of the wallets also corresponds
+</details>
+
+
+# CLUSTER 13
+
