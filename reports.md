@@ -842,7 +842,7 @@ I spotted this one from Dune. I saw that he made several batches of addresses wi
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/6e12224e-a9ed-4c71-8a9c-f1f2da654459)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/da74051a-ae4a-476d-9417-80d73b33fbf3)
 
-13/05
+# Between 05/13 and 05/14 he did approximately the same volume on Stargate (Arbitrum chain) with his batch of addresses, the same on 08/22 I put the screens below
 
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/cdd31758-2703-4789-8ff7-333030d87457)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/eae89f4c-7355-4080-a026-1df7ebd28665)
@@ -856,7 +856,7 @@ I spotted this one from Dune. I saw that he made several batches of addresses wi
   
 </details>
 
-
+An obvious Sybil, maybe even a script given the number of wallets, in any case that makes one less.
 
 
 
