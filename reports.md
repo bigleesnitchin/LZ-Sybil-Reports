@@ -908,8 +908,51 @@ The first 5 addresses within the cluster are linked to the same OKX deposit addr
 This one has a typical Sybil pattern
 He carried out his first TX Layer Zero on the same day on several batches of addresses
 The date of creation of the wallets also corresponds
-</details>
 
+21/12
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a1502862-5e83-44c5-9215-407e00489055)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/06778710-d763-4998-8025-83415f6ad688)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f67b8ada-18ed-469d-b522-109e60da679d)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/89fb0cbe-1af3-44a1-b96c-51283bc08e59)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/cf3dd6b0-daff-4977-b3d0-7277e56523fd)
+
+
+22/12
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/09de07fb-2efa-4fec-9cc9-07e886ec5365)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/b83d29a5-574e-4864-817d-b226448a7deb)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/0ab38d31-d2e6-4115-81b0-d66babaa8090)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/fc1db7a2-0c7d-424c-a407-6c8693e2a926)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/4739ab60-14ad-4ed4-9ee7-be11ce92d9fe)
+
+
+
+24/12
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/54d911cf-36b5-4d2e-bd1f-48fe077ac5b6)
+
+23/12
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/37d0ed35-ab07-4f06-a34f-109c9d9cf2ff)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/c21accb2-cc6a-4970-b8c4-29c1889583b4)
+
+
+27/12
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/c36cf181-bbb3-4bb0-926d-e36bab4545a6)
+
+28/12
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/86ba5a0a-f7e8-4276-860e-516348ff8cc5)
+
+
+29/12
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/3baefe94-af92-4b87-a916-12e42698c8a6)
+30/12
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/089fe85a-78b8-4708-a7a7-cb555a85d066)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/0a2b9fdf-78fe-47b2-a716-d72e91a757fa)
+
+
+</details>
+Reminder: All these addresses share the same OKX deposit address
+
+Each screen is a different address, he started farming between 12/21/21 and 12/29/21, he then continued his farming in May 2022, which I did not paste here because we understand quite quickly that it's a sybil.
 
 # CLUSTER 13
 
