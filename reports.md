@@ -675,3 +675,121 @@ This address is the Orbiter Bridge. ```
 As we can see on the screens, all its addresses produce the same transactions.
 This one is a big compulsive farmer, easy to find from the Dune data. 
 He produces volume by bridging from Avalanche to Arbitrum and so on with all his wallets.
+
+
+# CLUSTER 10
+
+The first 34 addresses within the cluster are linked to the same Binance deposit address: 0x857Ed5fabd064aB4849Ff45e5d6d216B8D5C4722. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+```
+0x0de40f29e25a84f930ba94c7c5972ac865d2e664
+0xede3111ecb55b66abf6a20bb543d2dea8720b0f9
+0xf1e23eed94ae3506186957b91936417c6ea616f5
+0xcfd513ed7fcde1d2fd4fddfdaec1b649bbfe32cd
+0xd3e0c5608425381fc26a126d56925d3165e5162f
+0xdcce380a82250594f4196573af4632ac57cc05c7
+0x61b4acab4a1da4776fe128833ff321aef9e1cca5
+0x80c6108a451d09a7e49b2ce021dcedf8ea538b56
+0x4c3d9d0396e416237cb043365c0b33c0fe23ffe8
+0x95237518bd575d83c0caa42b9d2a6885b7a3281e
+0x573f9a25213eb34c3edfb2c6a160269bfa211238
+0xa4f26389dee3f7e9ee635a3f75ee5cf1e7bc7504
+0x952d90403d485d2c1cd9477dfcd64278b1979c0b
+0xee53545f4a8e0142996ee4eb214d3958ccaed6a0
+0x16ee72279d51c8672617fa85da2dcee9da3dcb86
+0xcfbbafd932a7fbfb951c2c3e8620d6b64b6a1813
+0x22febcb64f8bb2291174185bd3d29ff0cacb2c8e
+0x34f5dd309308377f405a88af090c696e506b60e0
+0x9c2e7e0fa8ad2b24e2dcd7291f65a46fe184180d
+0x19df559bf6c57579c5c7b32faeaa46f35cca5a79
+0x8e57efbea55b77a3336256b2f1525773a7c87ca9
+0xda22bd2188c9ea594bd6f06689a93ea6c55d1ef1
+0x1b550e4ef8e5358e4527337d94c7e9b1eb953e58
+0x434c83625c0e4762f695f6084b924bde365382a3
+0x93eb20245a21be03741212eb6cae1fd00698f297
+0xe84172a861d0862855a75c21bec5afbe4cbce119
+0xee9c6674877d840fd9b5093f84f45b7e2c3103f1
+0x0b9017492be988b987bc31b7095ab388505873f3
+0x5d90df94547a3442f2f27f0349908889fac95d7c
+0xef723c4cbeb7d9124baf7a9d771e2f209848500f
+0x13b0c3f89f70f9bfd0b4f5d399b4368f7d86b919
+0xbb512125590566686a9c6cbd13efd70eab15bdb2
+0xb16eff06d5e59f2628ab264c0c2f2aa91f5660c8
+0x0de40f29e25a84f930ba94c7c5972ac865d2e664
+0x59604bee5568e13a00d7dc92ebf78d368a22e226
+0xbd9225654f5ab656482b9612420c0c6cb973a7f8
+0xd9f82e69beb23fa5ae199435cbae24da29d6a4cd
+0x0b10a4dfae294b3e260d97c92b3588790fcb40f5
+0x825fcf392b10798b90d2fc819f266eb1b1eacf15
+0x915e483b6efc2e4ff3e2f1379a5d8c5e8c9a4f8f
+0x333df78653f266d88679150ec62530a522d71ed3
+0xb6cb72715384d86286443eef5d48e98b144a7ef8
+0x6458b344429d2c79bd7c78a3ada2db749cb36b3a
+0xc8fb30a884a9c9533844aa5ef7576226235a5f9e
+0x915e483b6efc2e4ff3e2f1379a5d8c5e8c9a4f8f
+0x6e257ee90b29df336d962a2f7284568abef92b6f
+0xa6ca777daa600c0b4325f0ba038b34fb008fc0c0
+0x8afa1b7aff5398fca53129b7c980a35b2fc1f677
+0x5d90df94547a3442f2f27f0349908889fac95d7c
+0x0de40f29e25a84f930ba94c7c5972ac865d2e664
+0xede3111ecb55b66abf6a20bb543d2dea8720b0f9
+0xf1e23eed94ae3506186957b91936417c6ea616f5
+0xcfd513ed7fcde1d2fd4fddfdaec1b649bbfe32cd
+0xd3e0c5608425381fc26a126d56925d3165e5162f
+0xdcce380a82250594f4196573af4632ac57cc05c7
+0x61b4acab4a1da4776fe128833ff321aef9e1cca5
+```
+
+<img width="689" alt="Capture d’écran 2024-05-26 à 14 24 39" src="https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/c3facd92-9e36-4be6-a124-289e667bf306">
+
+
+This one is one of the biggest sybils, I even suspect a script behind it, it was rather easy to find and farm with around thirty addresses if not more
+
+<details>
+<img width="1185" alt="Capture d’écran 2024-05-26 à 14 30 54" src="https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a989ba34-2ad1-4093-81c6-fc1f51178c40">
+<img width="1202" alt="Capture d’écran 2024-05-26 à 14 31 25" src="https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/58cb8cb9-6486-4d8b-b4cb-e5c77f49dd44">
+As we can see, the wallets were created and made their first TX LZ on the same day, this is one of the easiest sybil patterns to spot
+
+
+</details>
+
+# CLUSTER 11
+
+The first 19 addresses within the cluster are linked to the same OKX Wallet deposit address: 0xC5613681D7620a8669b81fb29a96afDC57D5A068. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+```
+0x0bdc07c6453a8a80bfc21b61077ef1a82a6cedf7
+0x637fdcb9502384869d35ef528f977f5bf885e639
+0x558b2014ee4897ee2cc68c6ff925935f7b1bca98
+0xc0e769c29c75b7a414e1fc3e14c2fd13bc1fee0c
+0x0bcf2a009115e033095de5499520b4a99d1e212c
+0x27c9f8f3b6736b2b908be59c8281c3af0a139621
+0x3424f6691797956bb2a495244e82e6f2c1167645
+0xe9cbba76935e379fac350c18e9218f8335f1b161
+0x3a460dbb24d7187d6260ec22362baab696db5d24
+0x37ef45a1148e4eb64c9d5a5f65c403a400d64781
+0xd2601febf597cad7cfc573e92124d263c369d48e
+0x6e48536eaf5a16e99486bba2ecf7ecd457be58ad
+0xdd531b9ca5bcbe81c40098f56268ebefdccd8760
+0x0d9c95b4c7fc61d25d1e450e32f8d0b1fb8abb37
+0xeaf72c8a245185f289c870870397d81e5dfa2c68
+0x9cf161127f3e0d9406f2e48c8252500e9cffda61
+0x4fb0c65c0b412bcd19f6047eaa35c333c5bfa86a
+0x2e30a17929f173f80218fe75096f625edad08b8e
+0x8ccfaa9d8f2b34ae525d202d65712fca81da4cea
+0x0710e1ebebb584425ebf231fb1aa875f5b8aee52
+0x2d5abc8edcd5c6f6ec419a223ba724558d6122bb
+0x8dcfb6cb50d98aeb47d30e90181bc7d0f5512b41
+0xb5bd472975dd3e335541d84c0790cb836a70b7a4
+0x280b4c58dcf404d76961f57a7a781744fb38722a
+```
+<img width="655" alt="Capture d’écran 2024-05-26 à 15 24 05" src="https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/1d723ad7-faec-4af3-8bfc-47c64d58193a">
+I spotted this one from Dune. I saw that he made several batches of addresses with whom he made his first TX LZ on the same day.
+
+<details>
+<img width="1372" alt="Capture d’écran 2024-05-26 à 15 26 37" src="https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/812699de-18fa-4355-baa2-9e1002593adf">
+</details>
+
+
+
+# CLUSTER 12
+
+The first 19 addresses within the cluster are linked to the same Binance deposit address: 0xaAecAce720A40Ef21d0545efeb1bd965B67DE1B6. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
