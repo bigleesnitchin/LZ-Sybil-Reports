@@ -708,9 +708,7 @@ The first 34 addresses within the cluster are linked to the same Binance deposit
 0x93eb20245a21be03741212eb6cae1fd00698f297
 0xe84172a861d0862855a75c21bec5afbe4cbce119
 0xee9c6674877d840fd9b5093f84f45b7e2c3103f1
-0x0b9017492be988b987bc31b7095ab388505873f3
 0x5d90df94547a3442f2f27f0349908889fac95d7c
-0xef723c4cbeb7d9124baf7a9d771e2f209848500f
 0x13b0c3f89f70f9bfd0b4f5d399b4368f7d86b919
 0xbb512125590566686a9c6cbd13efd70eab15bdb2
 0xb16eff06d5e59f2628ab264c0c2f2aa91f5660c8
@@ -742,15 +740,53 @@ The first 34 addresses within the cluster are linked to the same Binance deposit
 <img width="689" alt="Capture d’écran 2024-05-26 à 14 24 39" src="https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/c3facd92-9e36-4be6-a124-289e667bf306">
 
 
-This one is one of the biggest sybils, I even suspect a script behind it, it was rather easy to find and farm with around thirty addresses if not more
+This one is one of the biggest sybils, I even suspect a script behind it, it was rather easy to find and farm with around thirty addresses if not more. 
 
 <details>
 <img width="1185" alt="Capture d’écran 2024-05-26 à 14 30 54" src="https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a989ba34-2ad1-4093-81c6-fc1f51178c40">
 <img width="1202" alt="Capture d’écran 2024-05-26 à 14 31 25" src="https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/58cb8cb9-6486-4d8b-b4cb-e5c77f49dd44">
 As we can see, the wallets were created and made their first TX LZ on the same day, this is one of the easiest sybil patterns to spot
 
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f7e12e8c-d2a8-4326-b538-8600bb2a5218)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f31e5abc-0862-4864-b5e8-941b02e13350)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/4366e078-bdad-4011-a80b-4225799d3d6d)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/53fd2720-95d8-495a-844f-dd18190cccc8)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/fa25f090-22c9-41c0-8b38-969725795f9c)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/ca5ea213-046d-4a92-8272-d6bf9b797d0e)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a063fd35-414b-45d0-a679-9860a52285f8)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/e1d7e10f-2cc9-4240-9556-839832616d1f)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/8b660c2b-1d3d-43da-a5de-05b8c392e885)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/26f72d6d-69ae-46e4-92dd-dd890182edb1)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/2678aa98-18dc-40f8-b657-0adb19f39900)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/4af61347-00b4-4998-8ee0-427e2de897cc)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/0441102e-6c3b-4562-b717-09ff85c9631c)
+
+
+Here we can see that on 07/05 he sent about 0.55 Avax then started to do volume with decent amounts, he has over $1 million in volume on Hashflow with several addresses on Avalanche.
+He made over $10m in volume on several addresses 
+on the Arbitrum network.
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/91a893e4-b6e1-4d67-ab72-092e44ec95d9)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/d5287a74-68da-492a-ac8e-66f43001cdba)
+Same TX again on other addresses
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/5f8ebfe0-6b6c-4b37-881c-b2da87894b98)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/fb95c5f1-59f2-4c33-841b-a9b01a817808)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/56d4eb21-405c-4717-b8a5-430bafd52bfb)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/b8b83e03-2477-47aa-9efb-4eed76567258)
+Same farming TX on Maverick, its goal is clearly to generate volume
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/209a1892-b44d-4eb5-96c4-37b9674a2dc1)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/bc0e976f-8a32-4058-8459-4bc02fd76eb8)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/b1069017-16bd-4d24-bfb4-e35518d097f5)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/470edb35-f45f-4579-a488-bcf26d1c5797)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/1ae1465c-cb93-4fe2-9c45-4e5e29278fd1)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/597625a5-93ed-4d13-847a-4d25bb18c716)
+
+Same farming TX on Kinza Finance, its goal is clearly to generate volume
 
 </details>
+This one was a big Sybil with a lot of addresses that farmed mainly Hashflow, I traced it from there.
+He has quite a bit of volume on the protocol.
+
 
 # CLUSTER 11
 
@@ -795,7 +831,41 @@ I spotted this one from Dune. I saw that he made several batches of addresses wi
 
 The first 5 addresses within the cluster are linked to the same OKX deposit address: 0xaAecAce720A40Ef21d0545efeb1bd965B67DE1B6. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
 ```
-c
+0xe356e7af80b8626a2b6ec11c32ad936c50a98a92
+0xd4f20f43eef492a6cb117c698c0a1cbba42811e4
+0x247119d2fe1e1276341b39235dafaf48901603fe
+0x653b4c9532363bb07d36d93820e6916c17663bae
+0x90208ffbf774d70b1433f6d64709fdf62104f77a
+0xd2033db9c5370ac76abd80823b5c5adc097e2fbf
+0xc5840af43749fd2a85103165c88e1891d2a64582
+0xccbc524ebe1a9d7f0db3fbd10bc5c6e57768a28e
+0xb2dd985116db690461fa28e03ba2a08a60af90a1
+0x4bdcba858dca35ecdc2a61bf0db4780e19a2d7dd
+0x5c29e2143a07f0b20a5881e1a353f95140c73d83
+0x5c33052e154964da3d26c8b8610d508df050476e
+0x645237614d9472698c225d19acfe447b039fe4d7
+0xacc00e45cfe70154c9e058e21b942dae76ea352d
+0x8d31550863b9bdf7a75ef81ce9a395e14376842f
+0x96a9b72547480eb346d53c01acc781d8f2f0bf9c
+0xee525a275d1f54c22cccf1a3314f13c712d7f3a8
+0xceca708fefffc842de98454c3ac5dcfe342c3f67
+0x7c1462c014d12ce8114c8d20897746e418d0609c
+0xdd534250cc5705f8751917ec9e400d715ab6e171
+0x2825861682f978d5df5044c42df6a7fa56f43933
+0x4de4aaa78d97d2f471ef966abba3ee26a5233f71
+0xfe3766d4b8f8bf029d4fe4d355be152f9c67eb90
+0x97372ba157f00034cf4c38791d3d828a3194fc34
+0x8a2ea925521c111dad7e328a32c238898589cf3a
+0xd959eb5165d88158bf0643e6618fab4120fbd810
+0x3afdd164605122f7ee98b9197b9761d26a8772d7
+0xa891022919e40e9d6ff50dd027c07d9b37e97dcf
+0x7591b5105aae76ff8e8a601c151e5f7e1df48ce8
+0x4fbe804fe264802ee3332687f56abe755c265b94
+0x13daea54537ccb33caf9131812d0441caa2ad63c
+0x953f368f1013a40a8ade7b2e3b8d73e9c7e1f701
+0xfa699091d82933d5ed9b980d7eb1fc2341d05875
+0x12a8d9bf53b1685c262e8979aaeb81adc20baf5d
+
 ```
 <img width="701" alt="Capture d’écran 2024-05-26 à 15 32 32" src="https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/63f45c82-e5ce-4b5d-9d2b-299e98606755">
 
