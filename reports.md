@@ -795,40 +795,7 @@ I spotted this one from Dune. I saw that he made several batches of addresses wi
 
 The first 5 addresses within the cluster are linked to the same OKX deposit address: 0xaAecAce720A40Ef21d0545efeb1bd965B67DE1B6. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
 ```
-0xe356e7af80b8626a2b6ec11c32ad936c50a98a92
-0xd4f20f43eef492a6cb117c698c0a1cbba42811e4
-0x247119d2fe1e1276341b39235dafaf48901603fe
-0x653b4c9532363bb07d36d93820e6916c17663bae
-0x90208ffbf774d70b1433f6d64709fdf62104f77a
-0xd2033db9c5370ac76abd80823b5c5adc097e2fbf
-0xc5840af43749fd2a85103165c88e1891d2a64582
-0xccbc524ebe1a9d7f0db3fbd10bc5c6e57768a28e
-0xb2dd985116db690461fa28e03ba2a08a60af90a1
-0x4bdcba858dca35ecdc2a61bf0db4780e19a2d7dd
-0x5c29e2143a07f0b20a5881e1a353f95140c73d83
-0x5c33052e154964da3d26c8b8610d508df050476e
-0x645237614d9472698c225d19acfe447b039fe4d7
-0xacc00e45cfe70154c9e058e21b942dae76ea352d
-0x8d31550863b9bdf7a75ef81ce9a395e14376842f
-0x96a9b72547480eb346d53c01acc781d8f2f0bf9c
-0xee525a275d1f54c22cccf1a3314f13c712d7f3a8
-0xceca708fefffc842de98454c3ac5dcfe342c3f67
-0x7c1462c014d12ce8114c8d20897746e418d0609c
-0xdd534250cc5705f8751917ec9e400d715ab6e171
-0x2825861682f978d5df5044c42df6a7fa56f43933
-0x4de4aaa78d97d2f471ef966abba3ee26a5233f71
-0xfe3766d4b8f8bf029d4fe4d355be152f9c67eb90
-0x97372ba157f00034cf4c38791d3d828a3194fc34
-0x8a2ea925521c111dad7e328a32c238898589cf3a
-0xd959eb5165d88158bf0643e6618fab4120fbd810
-0x3afdd164605122f7ee98b9197b9761d26a8772d7
-0xa891022919e40e9d6ff50dd027c07d9b37e97dcf
-0x7591b5105aae76ff8e8a601c151e5f7e1df48ce8
-0x4fbe804fe264802ee3332687f56abe755c265b94
-0x13daea54537ccb33caf9131812d0441caa2ad63c
-0x953f368f1013a40a8ade7b2e3b8d73e9c7e1f701
-0xfa699091d82933d5ed9b980d7eb1fc2341d05875
-0x12a8d9bf53b1685c262e8979aaeb81adc20baf5d
+c
 ```
 <img width="701" alt="Capture d’écran 2024-05-26 à 15 32 32" src="https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/63f45c82-e5ce-4b5d-9d2b-299e98606755">
 
@@ -842,4 +809,41 @@ The date of creation of the wallets also corresponds
 
 
 # CLUSTER 13
+
+The first 21 addresses within the cluster are linked to the same OKX deposit address: 0x151c6d618AF9305CCa87Dac37578dDC9AAbD9382. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+
+```
+0x5d30f88f92baa8a2bcd99e9ddb6e54e2ca8abb04
+0x90d4aa3bf552999e7ca9ce89cf8e6fada4c69aab
+0x22338f6036bd28d10e4180735fae96346283c886
+0x2600544f150db80438004be4bbc7114aa21615a9
+0xf72390c118188d6706bb303606c06457f198bf79
+0x3ae8e01536785f47eaa87ff1542ee509671ec8df
+0xeb3843caa198420fbbe5a023541a43bc9e8ec01c
+0x7aa819e41693e9f435ec7da54e8cfd08d03dba6b
+0x11a9ad3e94ce7a21f5bf14174e328bc7c5eeb6fa
+0xcf30a573e3ac5e855fe23bf85ff78ef62db9e52b
+0x9075e2b4f1778bf527ca6605a98f720f3954dd5f
+0x3b5c6db44c2e63309e3c570b0f7c3569d2371ffa
+0xde765b9d2a5b5b8e9e952da5ac3e43b011cdb289
+0x4ca644b441749ac1b29a26f2189ad7c29435c20a
+0x391ecebb351714ec949795f63d093b05a124c3a2
+0x058b9c1ba7cded2150335464ca1951cf1ce38fde
+0x0aacf7dd8fbd05aab11e3c6f170f9213b701baef
+0xfcace87fb6e1dfeeda16533cd41ee2852a0f14b2
+0x10bea37df7bd76a48ca5fef2f124fb177cc8683d
+0x3fa4a5319fe925770965f5a4d12361cceb39311e
+0x6762391958d87d5fa4d1252997615412a6a70651
+0x0611133571496e814294cd17067f4c14eee7d04f
+0x2bba0ec0af14a633693ed73d36b5ab2eea4ea888
+0x782f17e27322fb4d8a331f58f5d0e25dd0484a23
+0x805a58e0d9b797249dee2e19f6d5e7e6fffda769
+```
+<img width="665" alt="Capture d’écran 2024-05-26 à 15 49 41" src="https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/21ae01c6-f1a8-41c9-b0c3-7d2e20f718ed">
+This one made several small batches of addresses to farm with. Some share the same creation date as well as the first transaction date LZ.
+<details>
+<img width="1375" alt="Capture d’écran 2024-05-26 à 15 58 45" src="https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/344ccebc-e099-40b3-996a-a44187a3e76b">
+</details>
+
+# CLUSTER 14
 
