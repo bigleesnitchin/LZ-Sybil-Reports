@@ -2008,7 +2008,7 @@ This one is a big Sybil that uses a script to make transactions, I made sure to 
 
 <details>
   
-**== To begin with, we can see that he made batches of addresses which interacted with L0 on the same dates, all this information is on the Dune. ==**
+**To begin with, we can see that he made batches of addresses which interacted with L0 on the same dates, all this information is on the Dune.**
   
 <details>
   
@@ -2023,12 +2023,12 @@ This one is a big Sybil that uses a script to make transactions, I made sure to 
 
 </details>
 
-** He used his script to use the Linea bridge on Ethereum with exactly the same GasLimit (99301) and approximately the same amount (0.004x) between 08/23 and 08/26, then some addresses between 10/02 and 05 /10 **
+**He used his script to use the Linea bridge on Ethereum with exactly the same GasLimit (99301) and approximately the same amount (0.004x) between 08/23 and 08/26, then some addresses between 10/02 and 05 /10**
 <details>
   
-** I filtered out all the false positives
+**I filtered out all the false positives
 The columns correspond to: 
-Address - Timestamp - Amount - Gas limit - Tx Hash **
+Address - Timestamp - Amount - Gas limit - Tx Hash**
 
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a4c4ba0f-da93-41d5-a97e-d7a698579acb)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/240f3b36-1acf-45dd-b048-d9b986bb07c5)
@@ -2113,11 +2113,11 @@ Address - Timestamp - Amount - Gas limit - Tx Hash **
 65 0x134167a22c327e6badc29d3e230bcc08634f65dc 2023-10-05   0.005605801125768   99301   0x52f685e49476a9784a80febe539d8c003b152985d5c572c0e5ef05b8b6e2968a // 
 3 0x8b57322d54f67edb274b0bc6eb7a539dd804caf5 2023-10-02   0.004112556868076   99301   0x310735918b1676d003f141906f3d9b289e17d7ac188c5945052c3e97e0f8651b // 
 </details>
-** He used his script to use the ZkSync bridge on Ethereum with exactly the same GasLimit (149293) and approximately the same amount (0.004x) between 08/31 and 09/26 **
+**He used his script to use the ZkSync bridge on Ethereum with exactly the same GasLimit (149293) and approximately the same amount (0.004x) between 08/31 and 09/26**
 <details>
-** I filtered out all the false positives
+**I filtered out all the false positives
 The columns correspond to: 
-Address - Timestamp - Amount - Gas limit - Tx Hash **
+Address - Timestamp - Amount - Gas limit - Tx Hash**
   
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/460ee20c-3c80-4d41-b836-7cef80a9c6c2)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/e666cb69-5f56-4621-8164-287cf29a944d)
