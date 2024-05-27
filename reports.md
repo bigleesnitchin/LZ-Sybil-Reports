@@ -1125,27 +1125,28 @@ The first 21 addresses within the cluster are linked to the same OKX deposit add
 # CLUSTER 16
 The first 2 addresses within the cluster are linked to the same GATEio deposit address: 0x3949fc515d9458a48a64d7a0338f0ae65811e759. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
 ```
-0x831f6811f2ac46b933827f7a1fce9d167b55424b
-0xe205473109564210b726d5227ea56c92c4eb7ae7
-0x55ff014e09019a4e962b8dd1cf32d4a81f50ada9
-0xd0261878928ada35a3fc58c9d34caa753b9e6306
-0x0fd32cfe822823b7c01ee22fff31d27c6f6b1a8f
-0x875484c305e532a485ae6f79bab05e4677c15be5
-0x93da1d0d77e7483fb199cecd0b2077a58ab9abc1
-0x21a9e6f106f4d4247db9462ebf2c9c4241578da7
-0xa5bedade8c873b871d08f2d4b1684a9bd6945ba7
-0xdcd993c9482fa22a873c85a7018044106e1d6fa2
-0xf0579b201b2baecdd6472eb044d9b96f6d314779
-0x2f6c8ad9b90f03f1444f8512e30f48dd225f0dbd
-0x834684ddb8c11eb58fddf1159e9c74953b892cfe
-0x9a9b64f79e9f2ff806da3e912f826941b39404c2
-0x8c6a9e2006bd71989967854cc5fc9dafdeadf64c
-0x0cb470a536e6e48333f7182cc7fabc945a2cd93b
-0xff758cb857571ba5fe7891cdece84346c698ec26
-0x6a21b81376ef4759f2635a8f6f3c9858cea457a8
-0x8abe5c1b066b30069838e8ba35f2e4b02db15d64
-0xaedb26f3d279529c7670f2761ffea889f4c1798b
-0x9a5350aaeb4f3a5d896783b4c122919a7d0f9f83
+0x63c24f164fa69f4db7f45f211a8e089c157b4747
+0x600d1bf9ad00514196ed9a96c5afbddb471478c9
+0xc60b220f62578df2e584349dfb3a771780a300ed
+0x8d1d836f06d271028d028b4fb7ba4386795b9d0d
+0xa872e46e6da69402303522bcdf9f4538d16175ed
+0x4e91394b30162d5a63a09f5cfe253a09d05254c5
+0xbcc543e49afbaecfb65f4cdbeac271a97e735f45
+0x6216977058c2a6ce9b910a119f3d0131b0e7889d
+0x45f93ad7124ddd2d578e40de6f0836548433707c
+0x3d8b8ea64af099a0d2dfd9f0c97164628ee422e7
+0x53157a5ff07955f323a7624ae81c1add7e15d9fc
+0x6e2ce22c13eff481456db5c975fdd0e3f161f611
+0x695aa322e8b30aef3a0a417bd49612fc69b9313f
+0x427da433d001c8e4e4991a544575dafaf493399d
+0x64ea7be4d6ed0621aefe1ffe6d7d38e9a6396eb7
+0xc9f308d054b9c66a65dbcc1878772707ba96135e
+0x327a8065328da20491ff01a7735733c8c39bb685
+0xca8ba91243bee135fdf59fc509b27fded695c387
+0x2c3d78b8ab518d5ff6b909343f6865df41b3dcf0
+0xc1e66188827800152f5e98190f9c59c9ecbcfed0
+0xa4bd43301b38698faac1a179f2d2729e2ebb2dfd
+0xcdac5fa9d6f811a1e63714b0d4fe7bbebe07df0b
 ```
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/c2fb2b42-96c7-4b61-a301-48ab23d309bc)
 
@@ -1176,3 +1177,41 @@ The first 2 addresses within the cluster are linked to the same GATEio deposit a
 </details>
 
 From a withdrawal from Gate.io to its Gate.io deposit address, via its 21 farming wallets. The perfect Sybil.
+
+# CLUSTER 17
+The first 2 addresses within the cluster are linked to the same GATEio deposit address: 0x3949fc515d9458a48a64d7a0338f0ae65811e759. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+```
+```
+
+
+
+
+
+
+
+
+<details>
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/73fcd1bc-cd42-48b5-ac03-ea6134de94d5)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/41be34a7-7e47-43f2-aef7-b4324db0fdae)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/866dffce-8735-43e7-8aea-2d0ab2335766)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/7de39fa0-7b0d-408b-bdd9-5129a8bfe30a)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/20124082-89d0-44c5-b45b-656d387e10a8)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/2552ceaa-7e46-4749-b3f4-42830aaedda4)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/47b21083-43f3-4260-9413-42e50413fc8e)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/4e7af542-2533-4474-8699-c36beb4d6f7e)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/07890a22-e36c-4d6c-8d69-e370b949b3c9)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/0e5b6903-b133-4b6d-9e82-b1c5f6c0036b)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/d641f8a7-f12a-4a6a-87b0-1be5a1c9fb2d)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/d910677b-3a92-4625-aa6e-b96e0c5fc79a)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/38a79a25-2d07-4fde-99e7-8961076fcc14)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/c3c62a24-0c54-40cf-8bc9-927e7b997e1d)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/6fcbe7e0-5a36-48e9-8f71-fa480250ef49)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/c8e1404f-6fd3-4e9f-9527-fcac5652613b)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/90244b32-52c8-49cd-93f4-73ae48122869)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/b16a6457-275d-4a9d-9abd-09b72a430a68)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/40aab92d-ec8f-40a2-a82f-8d02be132b1c)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/4b84ecf9-d590-484f-ac66-ad4ae876adb8)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/e0a85d0d-10fc-418f-9274-d59dd23438cf)
+
+</details>
