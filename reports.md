@@ -2113,7 +2113,9 @@ Address - Timestamp - Amount - Gas limit - Tx Hash**
 65 0x134167a22c327e6badc29d3e230bcc08634f65dc 2023-10-05   0.005605801125768   99301   0x52f685e49476a9784a80febe539d8c003b152985d5c572c0e5ef05b8b6e2968a // 
 3 0x8b57322d54f67edb274b0bc6eb7a539dd804caf5 2023-10-02   0.004112556868076   99301   0x310735918b1676d003f141906f3d9b289e17d7ac188c5945052c3e97e0f8651b // 
 </details>
+
 **He used his script to use the ZkSync bridge on Ethereum with exactly the same GasLimit (149293) and approximately the same amount (0.004x) between 08/31 and 09/26**
+
 <details>
 **I filtered out all the false positives
 The columns correspond to: 
