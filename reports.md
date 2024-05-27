@@ -1505,7 +1505,7 @@ Same pattern each time: Uses the Zksync bridge on Ethereum on April 7 2023 then 
 
 # CLUSTER 23
 
-The first 20 addresses within the cluster are linked to the same OKX deposit address: 0xC384C95aE4F03a686D6f547aC8569D17E7bD60Bd. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+The first 20 addresses within the cluster are linked to the same OKX deposit address: 0xC462149B86266346845D04243455a7dD9Cb35230. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
 ```
 0xab3f80328770a2f2cf8148f7ce28a84834ff66c1
 0x5bc63079e6661145ce2ec4807d2644fdbb0a0c27
@@ -1531,6 +1531,233 @@ The first 20 addresses within the cluster are linked to the same OKX deposit add
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/8fbc6174-70e8-492a-b0d6-fca7d8f00ca9)
 
 <details>
+  
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/b13fe6fb-49bf-491c-a092-916e74bfd61b)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/4401efbb-8de0-4802-9afe-c97778e35b2d)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/3ae8f402-d22d-4b6d-87f3-852a918206bf)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/6d1f1f3c-d214-4294-a79c-df7c9d715758)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/42438563-2683-4dfb-a725-d9fe8eb2f209)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/bc123feb-371d-4d6c-aad7-4e529132212e)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/b2186b79-de83-4e55-a257-c7bbedc18f0c)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/eacd51cf-2881-4779-bd78-d3c01ec4263f)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/2688f69c-b3ff-41b8-943f-6083a92363c3)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/7f1df24d-247a-4a69-8616-b8dbeb8ba9e9)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/5f36567f-e8a5-4d8f-94ca-ed0f5bdd0f3d)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/d5bb6bc3-e9f7-44dc-beb7-1c78d0d883e0)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/d98025dd-1be1-41eb-a1c4-e53f37ea6bf6)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/83d5b10e-b074-4c4b-a0b7-2dc047de8667)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/1c2a4a91-5f9a-499e-a8f5-54580ecc2367)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/51be2880-80e5-463b-b3c8-e3fa6f71fce5)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/49845eb6-316d-4e04-9d7e-58410c0fa546)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/6af0c453-9600-4940-a757-581f69853adc)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/63bd8ea3-4823-4000-8dc0-a2be119fd204)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/14c04c0c-1832-45b4-8502-6417502f4339)
+</details>
+Classic Sybil who interacted on the same day, the same time on all her addresses with Zksync
+
+# CLUSTER 23
+
+The first 20 addresses within the cluster are linked to the same OKX deposit address: 0x33e100753f7be242b030db38d1432b2089ec2d0b. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+
+```
+0x33e100753f7be242b030db38d1432b2089ec2d0b
+0xc75fdec78cfc441b549fbfab7a86a0744165adc3
+0x2072922c71565097fe6848f9510192ea1c5e29b0
+0xd7430f64b89dd4a8cea430b8bb56258359c146a8
+0xda0a22e3e741d6c7ad8d6fe4a4889f4d9e8f79d1
+0xef17afbeab4df151d9814aa45fd147b8f91e0b01
+0x7d1d31fe23c5ad1c6a371f783d172b5383aaaa21
+0x006798ec0eed617e69b8ef32c24221a54c4bb102
+0x371f02a17b27877d1634f3b247e0c9809aba3c45
+0x0707ca8af1e2b928dbcd7d40d198526b8ff8c6a6
+0xee6753a91d68e7715f5e0da51859eb2655d37f52
+0x09bc40a29969161134b5b97297f2ea6eb792d2f7
+0xdcd7e55b15a4cf5be3e2c02e5ed3342092b0a976
+0xa83e71953765f38b9e1fd1b42e3b181ccf69b326
+0xb2a9e06e1dde4dad29423a74c0f0d82a8a336233
+0x4902171ab55a5c1974422b0404828c3beefe21f7
+0x0d70d61f4197827e60b52c3ff5f134aa26ae66e1
+0x4ebcaf25dc546e3ef407df89944c1c91cc6bf6f4
+0x0c317a092dbb21d1654c7dcf873675ef753c4b06
+0xee92206c3d4072ac9db80cd45bd1bc302cd53ce7
+```
+
+<details>
+  
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/9be53530-abc6-4406-8b0a-12f55585f3ea)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/9c2a9e39-1917-460c-a21b-1278f7dd9a86)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/5b3516e6-4d1e-4348-a1c2-3bfea84412e4)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/1e43d901-db0c-4513-86b0-ed2776a145f4)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/22508bde-d265-4ce4-86b9-5bfa9bbd0f63)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/96303495-6360-4fde-9def-48fc35dbe47c)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/aa707d6f-410b-4c4d-85ae-82f00582fd70)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/0557b50e-d4e1-4152-8f4c-aebd9e1faf52)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/0d292940-74f2-48c0-a417-99ab4dd70adc)
+
+</details>
+Same withdrawal from Bybit then bridge on Starknet, same day, same amount, same hours.
+
+# CLUSTER 24
+
+The first 20 addresses within the cluster are linked to the same Binance deposit address: 0xd5EA560724CFA15f5c9A5a9e851C08fbc98aE808. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+
+```
+0x5cf8067eae342ce64f5dafc659de21c1aa6dd8bc
+0x86ca33cc0a554d870ed34d9aef7f2dcd402e3e7f
+0xddd10e373cfa376eb3724698e08b8e4f302a0aaf
+0xca2912ece1a57a6d33582a6896124b3b968c7f40
+0x474380df0f203b7b7fe1b9d99c3821478222424d
+0x9f1c6b7a6cab13f329498217d45fb0fa73d9c74c
+0x531b3ca4af68d7be6e5b5c6ec847a037c1640555
+0xda8d0cdbc30a8cf6274a3abbf1f618c1cb3a13c5
+0xbee4ffbd5541c8937d883ddd89e6dd25862bebd9
+0x6b97ecffce9ef660e140a2063aabb713af20991e
+0xfd1cb7c8db8e2e216778edf45251be424ad8e694
+0x3eaf5e1269e6e9497f200cd9e27ed100d584d507
+0x31ebac9a66fe04946c18a9a8e0cb799e04440c27
+0x1a37fdd0dbab21c5b6f7ec24f62e034d10100b0d
+0xd86ec956f5960be98139569e1fc4f794bf973ac9
+0xbed051ac1d39ead23cfa128563718cedc8aeadff
+0x46d32c54f8ccab8f4b4e6d1e40da26ccf1e122af
+0xfe027981205b09b40aa3aef5b4ae8c022e8dd2a8
+0xae0a874dd8d47046602605311517ea287e1830b7
+0x200a0f83302e08204397784b86c2de78267e2071
+0x2e3c8ce5c12260b099c145cd8babf1441708bbdb
+0x9d56315e5216963703f1e4b4169fb069ef701e41
+0x1c0467d2f7fd720ef7705b69a43b97da0ee1e528
+0x21cdb52f9258ea2ea74c4369a1e0c1dbcfd59e4d
+
+```
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/249f9ae3-3c59-4ecd-aed3-c7462c2a5782)
+
+
+<details>
+  
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/569d1380-2503-4bad-a472-e0ccdaf351db)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/8568dc7c-22e3-4e02-89de-5ae062a07256)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f4ac5886-02e7-45cc-b538-38f68fbb6ee8)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/48f86907-0802-4bf5-b48f-4cc02fa7b3c6)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/271d4fda-ab13-41b7-b7f2-e6fa20e0482f)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/d364a942-a90d-4baf-9d22-39c444114e9d)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/228221d5-49d6-41dc-9d8e-e2a057c12f35)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/fa1cd8ab-fbca-42ef-8d3d-8e8e30b0b4fb)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/bf0a8c0b-cfdc-4fb5-85c7-7d1a006202d0)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/0c3da7d3-7519-4aba-90b2-f163699d7e63)
+
+</details>
+Sybil which has the same TX on base with all wallets, one less
+
+# CLUSTER 25
+The first 20 addresses within the cluster are linked to the same Binance deposit address: 0x3D122Ee2D9F16C912dc293D0096841E96BbC5D6d . The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+
+```
+0x958e46926e797fa5bc01f9d3f23a0f34ee937492
+0x4c228d587d60ff7c1b03069ea7ddda92c5c683de
+0xda896291b98f5bc5195c61dceb516e4c18090a5d
+0x3bdbde53ae1529fd865c451705b31a52066b6995
+0xe6fe54de650af4762a176faa30b0bc79f1e8c385
+0xe7bdd488fba50e76fdbc85ed33bbd0f0619ca553
+0xb80fa36204da2149136875a626f82ec856fa2f0b
+0x85229b28cb3308f952ecdb196921c93aea2c038e
+0x9a0f37c846720822a5504bc1ffa722d385f8d852
+0x579454d259bde515b125a5714f7fbc5e4adb1517
+0xae74a3d99850ece0332bc0004e4bde52d87b35b4
+0x2c93436ca5299bc8cdfa379004583a1bbd0e8e95
+0xd079ebf3703f3741c8df349674b2e0dc8995a342
+0xadaae038c946b83f8bebb06dc23911fdbb9af9df
+0x448edebe5bee41895c723286949058c51076f9aa
+0x4273cb9ec8153b71e6217c852ccabc2a93025789
+0x084fca2aa53a7f2d2f260cf9422ab1a84d0cf40e
+0x15a0418726b24c0b51ccb975cdd2f321b44510c1
+0x1f9e87b17569bdc6a1e5c6f3aa6f3b1c4136aed5
+0xba79781a5bb179809d741eece7006b79dd60dbce
+0x35d970b0aebea71b20d66724f75b5726a7329897
+0xa7b45165d2c2b71541c0299498aa5839deac2c1f
+0x2967ca56d43957963f88da98850be610800163ac
+0x21ff7e06f2b3549288c7eb4d418470b4cb7eb7fd
+0xcecd7c994d4839345d4d153249b6d28b23c23574
+0x86382f9bdafc01d58bc5faa3edaf4ea17b4e3a4b
+0x2b1d16427a0f88bdb3f856291fce5448f7fc82f7
+0xdbf4ecbd54d9b2b1e75492793a1122a4c5897609
+0xafc17519b628dc17447f78f865bc21a43b783a9e
+0x9fb115014d281f5afb5bc50dc8779c3480a0bd21
+0x77f7b6d7f8f64cb67c9db02ced99fc1c930d9f19
+0x07128d5d208c26d592195453c241783430f33334
+0x86e083b4585fa0516933e5a4bcb500b61bc2691a
+0x4f72e365218ed25b28ec5877098013b35e359eda
+0xc47d1b221f7ad5686c1720263a56a67372e4b2af
+```
+
+<details>
+  
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/8c6030c2-11b0-43b8-b8fb-d62c0764143b)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/9a6e0754-4aac-4dcc-a816-9b551a0c6f0e)
+Lot of equal LZD 
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/26a0eba4-43cb-4c33-af2a-b6bfa1d17eff)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/2768e0aa-029d-4550-b4d2-faefb0e3e46b)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/b2c67d7c-947d-4816-bdd4-806d4ed58867)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f5df6427-bd66-4f06-a65e-7b7c1a1e97f7)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a6d60290-3487-419b-a3ac-a8359fedd69c)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/ae28f7fe-662a-486e-9ddf-452972a14df9)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/44b4ad55-4fdc-44cf-a3e2-0e845c095297)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/bbcd26a7-7b44-4a8a-bf7f-7ce55cb5089a)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/c4b1865c-3178-4a1a-8b00-831ba4f220d6)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f65686c8-1691-44b7-bde6-af2949da4bb9)
+</details>
+
+# CLUSTER 26
+The first 20 addresses within the cluster are linked to the same Binance deposit address: 0x3cE95024Ef690e071a30e8745B28E80B2cCb6799. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+
+```
+0x5745eb3b2c96d72852c2efe336ab9b3edb7764ad
+0x8bcc1bd467272de53df513eedb04aca0fe272a37
+0x48cb93e3105fd104165d4ae145f84920391e33a9
+0x818cf2cf79d65c0a21bb9b15a020009ac83f3cc9
+0xf8082b76dfefa3e4e649974413ddd00a8dc408d0
+0xac6277f5a9dbe3e81d27146cbc2aab2b05b76a6f
+0xdca4f50095015219e4380cbeed9e2ff4611b6bb0
+0x39a9d498743553685cde94f6cb01f6eb0eae68af
+0xba3f923cd7d23dadf55830a74eff100306623152
+0xb76f2104812fc81dc3efedf54053ecd783e4df1a
+0xa612666e9798ec52eadfcee5fa9c85292fdcbdfa
+0xa36aeebb132cdc486f0eb2627e8eb50e81903215
+0x7dc66972b4da3296e257f03b004f03c615a50f74
+0x1da87df3163755361db197c7ebde89d4c577cafb
+0x34966603b65b838c1d8b284598bb281c37be43f0
+0x934ec30a8eb232172166ea3f351e6291eec8b7d1
+0x3d59a0edcd50ce436b6beab4f7d63c10227b7f23
+0x43e446100d3189630711581fd521be36a9768ab4
+0x93d5a2ad80687f84073cca63e71b4aca59e15f6e
+0xe064f3ee060abb3b74c7e286f292d45043653b03
+0x08d2f666538dfde37714ae226cf4e86dde9238d9
+0x61e3a40c5fc49362c6bd1d8277b53728cc8afef8
+0xb347e46b391301657fe4f3ac722b132c009db76f
+0xd4b9ead8f62f3d2db27a10a9b9e825118c6c257c
+0x0f8fc7f6a2c7e2ed44d72fe1afc65f7742f9d0cc
+0x84332bb78ca5740f45c4639f3066a0d4529328bb
+0xb4aef56ef6d597a6bf1dda9708fe38482b507c87
+0x4d10812b09efa602caecb74019b15b065b340c0a
+0x4db34e3cc4b77bc52bc8c9f8d79f6fdbeb53c47f
+0xaadf2656026a7567564b43341dd5683e6ecc095f
+0x3d2c3c74ce80b1d3393ff2f077e851304f663b51
+0x87f72bfa1d838a9be5c0b81805a5053156aa5ed4
+0xf98fe5618701726f99fc68b9f24574a23ff31694
+```
+<details>
+
+
+</details>
+
+# CLUSTER 27
+
+The first 20 addresses within the cluster are linked to the same Binance deposit address: . The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+
+```
+
+```
+
+<details> 
+
 
 
 </details>
