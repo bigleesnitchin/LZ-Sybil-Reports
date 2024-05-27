@@ -1365,13 +1365,13 @@ This one is a big Sybil that uses a script to make transactions, I made sure to 
   
 <details>
   
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/2234b653-f92d-4550-86ca-c79102ae7603)
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/4ae9b674-0d41-41dd-8136-0d9ca9712c5a)
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/23c33127-4849-40c3-be02-c4316c485145)
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/24a91271-58bd-4e6e-94ea-b8ac69a3d14f)
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/e37cff63-576f-4aa8-a63d-1a14fc34ad82)
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/47b29016-15be-4019-a3ba-00c0ecb5304f)
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f2f3ccb2-067d-4f44-9c9f-a0fd66d585b1)
+![image](http://res.cloudinary.com/dtpzb3ro7/image/upload/v1716852439/osgnuuot49uycpnljfdp.png)
+![image](http://res.cloudinary.com/dtpzb3ro7/image/upload/v1716852440/nnmd96wbcz9jcr8uwrg6.png)
+![image](http://res.cloudinary.com/dtpzb3ro7/image/upload/v1716852441/nbvi81vsmouxrfirms5f.png)
+![image](http://res.cloudinary.com/dtpzb3ro7/image/upload/v1716852442/t26cj5rsusoqcklfoqbu.png)
+![image](http://res.cloudinary.com/dtpzb3ro7/image/upload/v1716852444/hoooia4dqo4xtvqqth2i.png)
+![image](http://res.cloudinary.com/dtpzb3ro7/image/upload/v1716852445/smdimgrsqlepfo517apd.png)
+![image](http://res.cloudinary.com/dtpzb3ro7/image/upload/v1716852446/tfsxmmzyfl1kqrlb03my.png)
 
 
 </details>
@@ -2552,11 +2552,11 @@ The addresses use the same applications: Syncswap is the one that comes back all
 
 Here we can see that the addresses made their first LZ transaction approximately 400 days ago, all on the same dates
 
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/745ea92e-d0cc-4022-ab48-e00554652ea7)
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/660df7d6-3b03-4879-8e4f-2b1a6f98f14d)
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/bbb36e49-4265-4aa3-841c-d752cc3ba14e)
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/abdd0a64-fe1b-40c9-a5cf-542169e4b743)
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a2c1b2e1-c0fe-4b1e-8059-e0cd7587103d)
+![image](http://res.cloudinary.com/dtpzb3ro7/image/upload/v1716852448/pzuvo6rx1anknhtby14k.png)
+![image](http://res.cloudinary.com/dtpzb3ro7/image/upload/v1716852449/gwoztray3jqncq8cofbb.png)
+![image](http://res.cloudinary.com/dtpzb3ro7/image/upload/v1716852450/oqtd2a1hflk5gzp7pfed.png)
+![image](http://res.cloudinary.com/dtpzb3ro7/image/upload/v1716852452/goinz7laltutj9hsbkgt.png)
+![image](http://res.cloudinary.com/dtpzb3ro7/image/upload/v1716852453/wfkahd51c7py4xxgne5e.png)
 
 Here we can see from the layer zero scan the different addresses, the activity dates are similar, it also uses the same protocols each time. </details>
 
@@ -2603,7 +2603,7 @@ And he repeated this several times, so I have several batches with different add
 
 <details>
   
-![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/772030b2-2c8c-4957-a728-cdc5adc07534)
+![image](http://res.cloudinary.com/dtpzb3ro7/image/upload/v1716852454/arkwnhbrtrdklpolo1sx.png)
 
 As here we can see, its addresses were created on the same day, their first LZ tx was made on the same day, and this over several batches
 
