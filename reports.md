@@ -2470,3 +2470,46 @@ x51a95d8af4dd7a504b33dba9f67fe06579f02ed7 2023-09-26   0.003769291452822188   14
 
 
 </details>
+
+# CLUSTER 30
+
+The first 20 addresses within the cluster are linked to the same Binance deposit address: 0xBbc0461EB0e3a310774bA46756cD11E348A27F26. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+```
+0xf84856531e2d89b438f7820630db02cdfb2ae69f
+0x9831c4e03a510462dbe9efe78a49c3a3084259f8
+0x3e001279f431e586122fc557ffea8c1154a4d235
+0x0e08e9871505c8b9def3dfee1e84d198f1142f3b
+0xae77dcadfa7b5086ba64b4240a6aa664a105424f
+0xb173db8f27360f545c551f22bc480a22d33cde22
+0xe3444be2085f4b2c7ae1b50b0980ad6a4c257017
+0x007eda4f56511ee3c26c76c8ea8215fbb9bbb8a2
+0xec63ec638787a00aac16de144f0d054a727ed530
+0x0b8b7f5db541620e441cb212d9ca5ae4b631d89e
+0x52da6fc418863f0cc96e8fff496454401557ceae
+0x4b7ec805ae47e8696c212ee1e259a291316440d4
+0xfab8b317625fc99a3989d894b1962f668101aec4
+0x20848eb3ac6ba6941f72a6f21984df770e62f960
+0xf6cee0b7d093d3e716461da80be035da8080d754
+0xce97488ddfe8c92ccdd6c23191bc90c6e93a4718
+0xd70a897d59363545f3d5c35abc81d40c374808f0
+0x93cd18d53f8379fcd81b6846ccef22086c86c7a2
+0xeabefcd7b5f566a209261fc302ababbe62e65de8
+0x461ba2025f7998ce9c6cd022bccedfaa24ff5617
+0xddf67766823a949f0d5ed88c944a098f93c51535
+0x02e0637705c2f262117941ac2237ddfe51d20ae1
+0x0fe8f4ad617ba4fc872fc7f70405433939a34ad3
+```
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/483e75f6-731c-4e20-a8fd-21183e322ea3)
+
+<details>
+  
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/b466ba69-68de-4b8e-905b-b558453b054d)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/2dda2620-8089-494b-81d7-6ceefbd18e73)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/196f9067-3014-444c-b6ed-dc6663bdb555)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/26d5d05e-a713-4c48-a855-0b7463de868c)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/5fe28db2-647d-4f16-8c86-bdb907390063)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a1bda70a-6873-4660-9523-d9c3e5c913a5)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/94581747-d15f-4feb-bf6e-6fdc1068deac)
+
+
+</details>
