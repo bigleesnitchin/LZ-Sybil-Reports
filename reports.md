@@ -1366,7 +1366,7 @@ This one is a big Sybil that uses a script to make transactions, I made sure to 
 <details>
   
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/2234b653-f92d-4550-86ca-c79102ae7603)
-![img](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/4ae9b674-0d41-41dd-8136-0d9ca9712c5a)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/4ae9b674-0d41-41dd-8136-0d9ca9712c5a)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/23c33127-4849-40c3-be02-c4316c485145)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/24a91271-58bd-4e6e-94ea-b8ac69a3d14f)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/e37cff63-576f-4aa8-a63d-1a14fc34ad82)
