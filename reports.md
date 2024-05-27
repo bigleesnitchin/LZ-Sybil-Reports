@@ -1018,7 +1018,7 @@ This one made several small batches of addresses to farm with. Some share the sa
 Sybil cluster script farming multiple airdrop, across +20 wallets. Here was the proof with Linea bridge.
 
 # CLUSTER 14
-The first 21 addresses within the cluster are linked to the same OKX deposit address: 0x151c6d618AF9305CCa87Dac37578dDC9AAbD9382. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+The first 21 addresses within the cluster are linked to the same OKX deposit address: 0xFE7135539984Bc905Dd82c4b69244C59c41aA139. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
 
 ```
 0x048489d28a0d34682002c81e0db50ddd4fec43b9
@@ -1062,7 +1062,7 @@ The first 21 addresses within the cluster are linked to the same OKX deposit add
 Airdrop farmer caught.
 
 # CLUSTER 15
-The first 21 addresses within the cluster are linked to the same OKX deposit address: 0x151c6d618AF9305CCa87Dac37578dDC9AAbD9382. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+The first 21 addresses within the cluster are linked to the same OKX deposit address: 0x1a7cb54e27dbBCBF5b3C24C91f36BA9d922f0b92. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
 
 
 
