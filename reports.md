@@ -1397,7 +1397,7 @@ The first 20 addresses within the cluster are linked to the same OKX deposit add
 Sybil detected thanks to the Zksync Bridge, he made the same transactions on the same day.
 
 # CLUSTER 21
-The first 20 addresses within the cluster are linked to the same OKX deposit address: 0xBbc0461EB0e3a310774bA46756cD11E348A27F26. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+The first 20 addresses within the cluster are linked to the same Binance deposit address: 0xBbc0461EB0e3a310774bA46756cD11E348A27F26. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
 ```
 0x0889ffd6c0c90adc3659cb9efd8b76f7d0bb20e9
 0x8790095322c6faf74e3fc983506f62f628fb0062
@@ -1448,16 +1448,89 @@ The first 20 addresses within the cluster are linked to the same OKX deposit add
 Same pattern of create lock then add liquidity on Stargate on Arbitrum, Sybil 100%
 
 # CLUSTER 22
-The first 20 addresses within the cluster are linked to the same OKX deposit address: 0xBbc0461EB0e3a310774bA46756cD11E348A27F26. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+The first 20 addresses within the cluster are linked to the same OKX deposit address: 0xC384C95aE4F03a686D6f547aC8569D17E7bD60Bd. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
 ```
 
-
+0xb93f6e605b2a5d55fa83b2eaf6ef403730d633d9
+0x7dce8679e030b5cf4d5df615afcd0b084a4b16aa
+0xea1ef14d2dc7db19e11a2515c4bec40dd1c37e20
+0xdf2a22d616ec7013ce35fc79b3ae27d8a431339c
+0xe007f05f1a5e333b5b20de19f5a45c945e642b33
+0x18f5b949f6c6dafcbb0e8f43a1518fa5fc39bbe4
+0x6bd206f8af3f80c32522a49b0fdf9b1e10ffa1ef
+0x36420e4f8735fd65b039d5fea7f16c401057aec0
+0x84641d5fc37c6f85057461020e3cfeb1c35a3d41
+0x1675c0d30dc5dad8e38d95ff189f85314084d6b3
+0x5d6c92eccf40953bfb9d81d0e8c31e6770a1b771
+0xc395b4e55deeabdb22a40b554c3b0c0fda7e7e63
+0xd4a077bc564e49562d8d74391451a0b639dda404
+0x6ea297b1809b54b7d53083ec07f4a6a2b54a71fc
+0xd5cbc980eab7b79f7abb849212d7e3b1a105e5a2
+0xfbd059e151fac920e53d6a35f4d51d5b9477bbb9
+0x1115855b863452525229c57b58dc95690c893690
+0x90ddd3049725d1d8067e4ab5e5eaba7773e58f9a
+0x619bf38292c0ea870d8e4815ab96a9ffac3b2e19
+0x6622dc3d88683fc475d09d712b2bc6b2027ba47c
 
 ```
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/be287f25-ccff-4c6a-8920-33be575bbcf8)
 
 
 <details>
 
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f4e1e45f-7e9f-48a4-8b55-54552307a4c5)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/0b5e6197-d598-41cd-8780-1c8dda4c93b3)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f0702eb0-42bb-4d9d-bad0-20cf50a3d532)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/8d6be816-be4b-4353-9817-acefacab822e)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/54984272-069f-4b37-a6aa-4aa12ee1fa84)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/546e0be7-abde-43f0-870b-8062486eb3ab)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/33f097b1-fbcb-4513-b13e-bf12d96e5e05)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/39f7a57c-7c9f-4c8b-a8a4-622ad9c4317f)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/4c7363db-13e7-4ae4-ba40-b3508f1dcb40)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/ce1d4022-0ccd-4db2-81d9-fe16cd49484e)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/135f2670-6b12-4376-8f0a-36fbc11f68a4)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/2894e2a0-f8e8-4ff5-8985-bd6041a561d2)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/6a1be35b-18ad-4dba-a12b-b1471bec4112)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/59be895b-16d4-44a7-8f6d-50c3fd4ed7fe)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/0c21219b-7858-4d13-bdcc-7de91ea5a8c3)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/ca53c292-ebed-4659-b255-43bc4aa8fa61)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/7007bd59-6c13-4770-9b5d-27190124b2a3)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f5b1bef3-6033-41c7-80cd-6b33e7f60582)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/3a38d5ef-3682-4842-a7aa-98548106ca8c)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/6749b748-5e74-43b7-b4fa-17ee410ad1be)
+
+</details>
+
+Same pattern each time: Uses the Zksync bridge on Ethereum on April 7 2023 then Bridge Back in January 2024
+
+# CLUSTER 23
+
+The first 20 addresses within the cluster are linked to the same OKX deposit address: 0xC384C95aE4F03a686D6f547aC8569D17E7bD60Bd. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+```
+0xab3f80328770a2f2cf8148f7ce28a84834ff66c1
+0x5bc63079e6661145ce2ec4807d2644fdbb0a0c27
+0xf8082b76dfefa3e4e649974413ddd00a8dc408d0
+0xb347e46b391301657fe4f3ac722b132c009db76f
+0x99e7d1319a11374fc0a64f46f4c7b1edfdc6685c
+0xdca4f50095015219e4380cbeed9e2ff4611b6bb0
+0xd4b9ead8f62f3d2db27a10a9b9e825118c6c257c
+0x84332bb78ca5740f45c4639f3066a0d4529328bb
+0x5fe20406c7a4423109314fb17d2708b0bee8535d
+0xac6277f5a9dbe3e81d27146cbc2aab2b05b76a6f
+0xa7d9ba18f3e7e901e987265256ff1b0cffb043d6
+0x03d4e412d3d97963aaef18027870e33f51521040
+0xc043e96110652b1cf0d16c7f69724e869f6880e1
+0xba3f923cd7d23dadf55830a74eff100306623152
+0x4db34e3cc4b77bc52bc8c9f8d79f6fdbeb53c47f
+0xb2a52b874e88ace933640429e537e216c99b382f
+0xef507e6334f3b546aa47b926cbc7fce5c91f1c6a
+0x8bcc1bd467272de53df513eedb04aca0fe272a37
+0xf11d53f79274e801a14c2a7a664a2a555c663bdb
+0x952ddc9ff6fd62ada843146b8b3333e841a18154
+```
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/8fbc6174-70e8-492a-b0d6-fca7d8f00ca9)
+
+<details>
+
 
 </details>
