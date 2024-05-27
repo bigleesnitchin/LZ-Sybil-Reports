@@ -2007,7 +2007,8 @@ The first 20 addresses within the cluster are linked to the same Okex deposit ad
 This one is a big Sybil that uses a script to make transactions, I made sure to leave all the evidence available for you to check too, you'll have to pay a lot of attention to this one given its size
 
 <details>
-To begin with, we can see that he made batches of addresses which interacted with L0 on the same dates, all this information is on the Dune.
+  
+**== To begin with, we can see that he made batches of addresses which interacted with L0 on the same dates, all this information is on the Dune. ==**
   
 <details>
   
@@ -2020,14 +2021,16 @@ To begin with, we can see that he made batches of addresses which interacted wit
 ![a7](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f2f3ccb2-067d-4f44-9c9f-a0fd66d585b1)
 
 
-He used his script to use the Linea bridge on Ethereum with exactly the same GasLimit and approximately the same amount (0.004x) between 08/23 and 08/26, then some addresses between 10/02 and 05 /10
+**== He used his script to use the Linea bridge on Ethereum with exactly the same GasLimit and approximately the same amount (0.004x) between 08/23 and 08/26, then some addresses between 10/02 and 05 /10 ==**
 
 </details>
-He used his script to use the Linea bridge on Ethereum with exactly the same GasLimit and approximately the same amount (0.004x) between 08/23 and 08/26, then some addresses between 10/02 and 05 /10
+
+**== He used his script to use the Linea bridge on Ethereum with exactly the same GasLimit and approximately the same amount (0.004x) between 08/23 and 08/26, then some addresses between 10/02 and 05 /10 ==**
 <details>
-I filtered out all the false positives
+  
+**== I filtered out all the false positives
 The columns correspond to: 
-Address - Timestamp - Amount - Gas limit - Tx Hash
+Address - Timestamp - Amount - Gas limit - Tx Hash ==**
 
 1 0xd7a4ff75f082b0905e3c4b436b385ae2be61141e 2023-08-23   0.004253896656668   99301   0xca43e6011e118fa199c3601b4ccd80687ad1428c63c4d3b42002f9cd35cd36c5 // 
 7 0x8bfa806bae1ccde15be034725c88e6052f9885eb 2023-08-23   0.004716587160252   99301   0x7ab37a9532d97bfe18e6623bbebbbb5e98306de9dfd7d769962476e91ffeacb3 // 
@@ -2062,13 +2065,10 @@ Address - Timestamp - Amount - Gas limit - Tx Hash
 47 0x443f5496ebd7fa04792a4d2ae92e493568173640 2023-08-26   0.004788518803196   99301   0x74273f0633a6ed21489cf009d27692626db9c87f1a975eb51c6cd9a6cd5f3007 // 
 48 0x6a42ff25032d4a57a5ee2e0a902310643062e38c 2023-08-25   0.004168493842256   99301   0x3eced5ef34efc3d02c238dbe214c480d5b9f3bc962130fd642e27f5a020094e9 // 
 53 0x01578b78e89bee2da3d7d55b531ad7b4c3ca80d9 2023-08-26   0.004892560724236   99301   0xadabc246aa2a0aef05dfe49c79ae9493b7c6b12c635d468da9d5b875f969e67d // 
-
 55 0x4a0683b791bb4831b93ec25acd8a8eeb2c70b1a3 2023-08-25   0.004366157398948   99301   0xe317a7029876509cd1c4acaf64ee19edd1aa370e9ea90675f751fd60adeb32e5 // 
 56 0x5821d7dd09efe8736208e4dcb2a71fd32104f7a9 2023-08-25   0.004480010427224   99301   0x002b6c19764ca6e12351cdfc273e34539a9088c25c97afebf997e6e4bfb803a2 // 
 57 0xfcb1eb58a3165de8a8eac0de71beceee15d6a3d9 2023-08-26   0.00490511580456   99301   0x9df9cb293ecc3e1113a6d4b68bec53bcddf892a5c6d621977c27cb20fbd19a38 // 
 59 0xb50fbb1edd47f7cac09be31d7f36c44e7241a7af 2023-08-25   0.00444922257014   99301   0xe2025ea7543516502e919be8caf388f6cd4078d5b168c345525a13093dfaec5e // 
-
-
 62 0x3e2b1a4d547dd3ed21feb6dba0972d9ff9e73358 2023-08-25   0.00466348012882   99301   0xbb570bb99e26b9e57d191cce67f552ab08a270b860778211fd2d9ebc8d9b992a // 
 64 0xb985ba1ae77fa3b11ad0f8e08178af0e44a49684 2023-08-25   0.00445643618842   99301   0xf853d89bd01263b6ebca19b179822bfbcc931ef8e56e8c45ef59086ed94a253a // 
 66 0x5a7c5585eedfb226df56031cd53cebcf82ae2a3b 2023-08-26   0.004752784880248   99301   0x646a27967502a9c5a77f2ad22807ddb84511adce9b60a683f83edb3eb770331e //
@@ -2102,7 +2102,6 @@ Address - Timestamp - Amount - Gas limit - Tx Hash
 154 0xfcc6a14243b44706f4bb4c1425de550d6b8af39c 2023-08-26   0.00479864319334   99301   0xe8a82e97b6cc15fbe5af85eccf649cc8703279d5623562110d930872c0b44c52 // 
 155 0x1688438438aa95e53f11170aac3e267eaec947be 2023-08-26   0.004798738251172   99301   0xc4e56a173c907eab29d400c7d9fe762b402f5711f067cba88ae5627ece9b5313 // 
 157 0xd86eda34aee5772c94fd53353f2938122e6f3220 2023-08-26   0.004895398972604   99301   0xcc0817215a488feefeeb50308afb31e252a2ef49a32c15092dd76cab0a15333a // 
-
 18 0xdbd75ebe36bf769cee849cdb56f1599369654327 2023-10-02   0.005112448167408   99301   0x203223f40e96d44a2b4f9ee424399660413f6673d5297316a765f3988ea64e5c // 
 19 0xe8459137bfb5cd105ea2436bba652d76ea33e3ec 2023-10-02   0.0051122375223   99301   0x8350c9f59f30e48d58d69f537bc302955ee8b632980c485c846d00becd817cc4 // 
 20 0xc73e35606ca7f296d37ce5564128b6352bdbeaf8 2023-10-02   0.005112448167408   99301   0xcd3b81b16c26127e7c6f173fd4f8b6cd3ae1c6cfdabd94022f165f6f03e8f9d2 // 
