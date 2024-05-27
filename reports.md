@@ -1150,6 +1150,7 @@ The first 2 addresses within the cluster are linked to the same GATEio deposit a
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/c2fb2b42-96c7-4b61-a301-48ab23d309bc)
 
 <details>
+  
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/2e4fc35f-b063-497c-8dd4-edb26f3fe946)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/8fc03e5b-6d75-4cd9-af68-2ecda04da1e4)
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/2492ea0b-1306-4bd0-911f-ad18d19152e4)
