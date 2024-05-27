@@ -1121,3 +1121,57 @@ The first 21 addresses within the cluster are linked to the same OKX deposit add
 ![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f593ab1e-deae-4ae8-aedb-2a52dda20aa0)
 
 </details>
+
+# CLUSTER 16
+The first 2 addresses within the cluster are linked to the same GATEio deposit address: 0x3949fc515d9458a48a64d7a0338f0ae65811e759. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+```
+0x831f6811f2ac46b933827f7a1fce9d167b55424b
+0xe205473109564210b726d5227ea56c92c4eb7ae7
+0x55ff014e09019a4e962b8dd1cf32d4a81f50ada9
+0xd0261878928ada35a3fc58c9d34caa753b9e6306
+0x0fd32cfe822823b7c01ee22fff31d27c6f6b1a8f
+0x875484c305e532a485ae6f79bab05e4677c15be5
+0x93da1d0d77e7483fb199cecd0b2077a58ab9abc1
+0x21a9e6f106f4d4247db9462ebf2c9c4241578da7
+0xa5bedade8c873b871d08f2d4b1684a9bd6945ba7
+0xdcd993c9482fa22a873c85a7018044106e1d6fa2
+0xf0579b201b2baecdd6472eb044d9b96f6d314779
+0x2f6c8ad9b90f03f1444f8512e30f48dd225f0dbd
+0x834684ddb8c11eb58fddf1159e9c74953b892cfe
+0x9a9b64f79e9f2ff806da3e912f826941b39404c2
+0x8c6a9e2006bd71989967854cc5fc9dafdeadf64c
+0x0cb470a536e6e48333f7182cc7fabc945a2cd93b
+0xff758cb857571ba5fe7891cdece84346c698ec26
+0x6a21b81376ef4759f2635a8f6f3c9858cea457a8
+0x8abe5c1b066b30069838e8ba35f2e4b02db15d64
+0xaedb26f3d279529c7670f2761ffea889f4c1798b
+0x9a5350aaeb4f3a5d896783b4c122919a7d0f9f83
+```
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/c2fb2b42-96c7-4b61-a301-48ab23d309bc)
+
+<details>
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/2e4fc35f-b063-497c-8dd4-edb26f3fe946)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/8fc03e5b-6d75-4cd9-af68-2ecda04da1e4)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/2492ea0b-1306-4bd0-911f-ad18d19152e4)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/af4fafce-db4c-48de-8980-52b22b49e1fd)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/b0bbcd65-ae55-437b-b9f9-a49c72455db4)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/5874d6d8-5469-4158-8122-25de37d8f139)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/c335fb89-3868-4e91-9305-8901c8f6afdf)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/ab0bbdad-41a8-45d6-8dd5-e47b5114894d)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/e758a39b-53fe-4f7b-9dff-e0de3f0ede18)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/d1c1b3d8-66ee-4061-9961-3923e98f9827)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/37d3e3aa-4010-472f-b708-8dc8e70f7686)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a84581e3-24c6-419d-861d-67da77de4bc6)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/83fe5143-2540-46d1-931f-46eaa53192ab)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/1ee1df9f-6698-4b47-8093-c14b0bd231f6)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/e89516fd-ee34-4969-867a-59de7e3fc0a6)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/194e0d9d-6626-4b55-90bc-8f4e90e7fb4d)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/5d5c5132-f70c-4870-a562-58cb8f588aa5)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/4f219b90-cfd8-496c-b3b7-4fb6131e7891)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/562cd390-8b2e-40d6-9867-e3491db706c7)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/26af7f1c-8c99-4298-9816-741b55bfa12b)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/27fc5cd2-6b04-44c7-bd91-89eaaa62148b)
+
+</details>
+
+From a withdrawal from Gate.io to its Gate.io deposit address, via its 21 farming wallets. The perfect Sybil.
