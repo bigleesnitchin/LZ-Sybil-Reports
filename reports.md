@@ -1397,5 +1397,67 @@ The first 20 addresses within the cluster are linked to the same OKX deposit add
 Sybil detected thanks to the Zksync Bridge, he made the same transactions on the same day.
 
 # CLUSTER 21
+The first 20 addresses within the cluster are linked to the same OKX deposit address: 0xBbc0461EB0e3a310774bA46756cD11E348A27F26. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+```
+0x0889ffd6c0c90adc3659cb9efd8b76f7d0bb20e9
+0x8790095322c6faf74e3fc983506f62f628fb0062
+0x0826ad353b9c6b005ed697ae9c9e06c2f5798c38
+0x87fca40b60955f304c8429c5757d8180dd811582
+0xd6401cc0ca7eab0efa76135a7cb5959cea5bdc2e
+0x90296759b03f32d3783e93eba20db8b9a0c26b49
+0x6c43433a490ed270f2023143be8a8c2f61f66e57
+0x9840d7cf3a261bec056aaaf0e587cb9bd4ec5b3a
+0x1ffff42907fbe7d500d113e864b0d299255516bc
+0x9796c8bb6fa6200e420e8bacc2eaf7c1b26e10ba
+0x1551c6b351f623ff6c8ac88f4f4d27d03f0bf8c0
+0xe587005dfa23af2fb98a3de6aaca66037cdd8ebe
+0xa63757ad9c3078ae8d34b9101f5d7de9fee96ffa
+0x94f88de76529b79ecdf15d7ce9c783f8b82cf282
+0xfec0e78062f14629f95d1abbf7395bb9de3f2214
+0x68b7cd166fd11e7b84fd8cc80a16d51e6b341e27
+0xa029f864170011e9d761622d97310957b56889ce
+0xc3e1696990e7726375f5e0ee886a91bbabfd32ac
+0x0d541f8226f066d723afad32e4d540c2b3dc222c
+0xdd6536a6314578a2ebfb1fd6f166a65d38351ce0
+0x7ff4c55853ead02e504b5bb48040de5100c616ad
+```
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/8ce8cd0d-a4b2-4306-9eb3-1b174434e7bd)
+
+<details> 
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/d0629a46-e858-4be6-bcd7-46bae02c1f8e)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f3d0dd4e-dd4a-424a-a76d-f79988c83944)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/bda9a951-311b-4737-89a7-d87f30f107fb)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/51c26598-ca07-4d4a-a8cb-6da218bafffe)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/b68e4388-9378-4a69-aa1d-b420e7b4bad8)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/3a322cb6-ef5d-45c5-9b83-d29b2fd4d459)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a7ad30a9-d514-45b3-9922-62ea58d9d415)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/9f5e0816-6f8e-45d0-916f-297bfc60c138)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/0ac5a05a-0680-4991-a39f-d36ec1e9005c)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/7a253c3d-1cb8-429c-ab74-75d1e56d5a74)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f89a999f-974a-4acc-b54a-f5700bc475f5)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/1e0cdf9c-c21b-4667-a36f-e4d19c37350c)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/823d4e1f-2c5e-41ce-8afe-44206e42977b)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/201580e6-019e-4e6c-b5f0-e4168c1335b5)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/5423996b-10ba-4b75-9c59-312f7e19179c)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/a80f2459-32fa-4c16-96f2-483c82fd0697)
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/1e846958-a429-453f-89de-87f3ca64dc80)
 
 
+</details>
+Same pattern of create lock then add liquidity on Stargate on Arbitrum, Sybil 100%
+
+# CLUSTER 22
+The first 20 addresses within the cluster are linked to the same OKX deposit address: 0xBbc0461EB0e3a310774bA46756cD11E348A27F26. The remaining addresses are interconnected with numerous addresses within the cluster, often multiple times.
+```
+
+
+
+```
+
+
+<details>
+
+![image](https://github.com/bigleesnitchin/LZ-Sybil-Reports/assets/169681941/f4e1e45f-7e9f-48a4-8b55-54552307a4c5)
+
+</details>
